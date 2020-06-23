@@ -1,0 +1,65 @@
+released 3/29/99 - Version 1.0
+
+Model name: Squad
+
+Author: NSi [ nsi@artmaze.com ]
+
+Model homepage: http://www.artmaze.com/nsi
+
+Installation: Make a folder in Sierra\Half-life\valve\models\player named "Squad" (without quotes). Copy all files contained in this Zip into it (Squad.mdl, Squad.bmp, Squad.txt)
+
+------------------------------------------------------------
+Construction
+	
+	Poly count: 568 tris
+
+	Skins: 1 DM_base with team coloring (2 colors) - (86K)
+
+	Animation: Valve animations
+
+Programs used
+
+	Basic mesh: Lightwave 5.6
+
+	Skinning, boning and mesh detailing: 3D Studio Max R2.5
+
+	Texture: Photoshop 5.0, Debabelizer Pro 3.0
+	
+	Compiling: StudioMDL
+	
+	Previewing: MDLviewe.exe 1.11 by Valve / Otis
+
+
+About the model:
+
+Squad is the nickname given by Silencers SpecOps officers to the color coded armor suits used for training and squad-based missions where teamwork is critical and standard issue camouflaged armor is not necessary.
+Silencers are special assault soldiers of the secret Lambda SpecOps Unit. Fitted with light body armor, Silencer Squads are only deployed when the there's a code 5 emergency, a state which came into activation when physics officer Gordon Freeman dissapeared and alien soldiers started a heavy invation through all of Black Mesa's remaining teleporters.
+They have a Lambda symbol to distinguish them from other Silencer units from other bases. Within a team, they are distinguished by both colors of their external armor.
+The Squad standard issue suit fits both male and female soldiers.
+
+From the auhor:
+
+This is actually an alternate skin to my first model, Silencer. The mesh is exactly the same. I created the skin for those players who might prefer straight team coloring schemes to the camouflage texture in Silencer (though I think the como is cooler :)).
+I added a little more detail to the skin base so it looked better without the added complexity of the camouflage pattern. I didn't add a chrome texture to the goggles because the effect was barely noticeable and it's more compact this way. 
+This model works great for teamplay situations, and makes a great replacement for any models you don't like to see when playing (helloooo skeleton!). That's not to say it's not just plain cool in regular deathmatch too :)
+Feel free to email me to let me know how you like this model.
+
+Thanks:
+
+- Valve Software for making the best FPS game ever.
+
+- Spider from Wavelength for his FAQs which served me as a solid guide, as well as the email he sent me when I needed help.
+
+- Radium for the most kickass Half Life map review site in existence.
+
+- Deadfrog from Deadsoft for the cool little 3DStudio tip regarding vertex link locking.
+
+- The people at the Radium forums who are cool, you know who you are :)
+
+** IMPORTANT **
+
+This model should NOT be distributed in any kind of commercial compilation, product or package without my personal approval. Contact me first.
+This model CAN otherwise be distributed freely as long as this text file is included, unmodified, with the package.
+And PLEASE don't extract the skin and draw a mustache on it and release it to the world as yours, don't be lame.
+
+  - NSi

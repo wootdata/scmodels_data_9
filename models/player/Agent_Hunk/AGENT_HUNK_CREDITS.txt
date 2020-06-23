@@ -1,0 +1,10 @@
+RE:CB Umbrella Agent Hunk Player Model
+============================================================
+:::Parts used::::
+Body from: Valve/Gearbox, CAd Team, & Romka's Massn Model
+Head from: RECB Team's Hunk Model
+============================================================
+Hacked together by: -Rusty-
+============================================================
+Place the model in:
+C:\Program Files\Steam\SteamApps\<USERNAME>\Half-Life\ColdBlood\Models\Player

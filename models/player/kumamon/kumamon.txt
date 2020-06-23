@@ -1,0 +1,17 @@
+------------------------------------------------------
+Kumamon  (Kumamoto Prefecture mascot character)
+for Sven Co-op 5.0 player model
+
+Kumamoto Surprise!
+
+Animation by Sven Co-op Team
+Model, Skin, Customized animation, Compiled by originaldon
+
+Programs Used: MilkShape 3D, Blender, SAI Ver.2, EDGE
+Website: http://tepodonsc35.g1.xrea.com/
+
+30-01-2020 updated ver1.3 (Fixed UV)
+22-02-2019 updated ver1.2 (Fixed Skin, Animation)
+24-12-2018 updated ver1.1 (Fixed Skin)
+22-12-2018 completed
+------------------------------------------------------

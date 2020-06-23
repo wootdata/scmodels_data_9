@@ -1,0 +1,33 @@
+8-9-99
+
+----------------------------------------------------------------------
+
+Model Name              : Clan Killer
+
+Model Author            : Rikki "Phukyumoto(CW)" Knight
+
+Email                   : phuky@swbell.net
+
+Website                 : http://www.planetquake.com/q2pmp/hostings/phunkyumoto
+
+Model description       : Based off the mesh I used for one of my Action Half-Life
+			  contest entries. I wasn't too happy with the model I
+			  entered, so I modified it to look a bit better. Added a
+			  chrome mapped sword too.
+
+
+----------------------------------------------------------------------
+
+
+* Construction *
+
+Poly Count              : 748 faces
+
+Skin Count              : 1
+
+Editor used             : 
+		Modeling - 3d Studio Max 2.5/Q2 modeller	
+		Mapping  - NST/Q2 modeller
+		Skinning - Photoshop/NST
+
+Known Bugs              : None
