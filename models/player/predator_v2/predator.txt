@@ -1,0 +1,22 @@
+Predator Skin/Model
+
+This is Predator using exported mat files from AvP
+
+This was my hardest skin so far, and I decided to make it
+easier on myself my excluding the dreadlocks, but I am very
+pleased with it.
+
+Converted from Superman by Austin
+
+Place Predator.mdl and Predator.bmp in a new folder called Predator in SIERRA\Half-life\valve\models\player folder.
+
+Other skins by Me:
+Blade
+Batman
+Quake_Blade
+Spiderman
+
+Feel free to contact me at Oliverbw@owinwood.freeserve.co.uk
+and please distribute this file
+
+Oliver Winwood

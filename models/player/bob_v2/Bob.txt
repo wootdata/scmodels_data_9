@@ -1,0 +1,41 @@
+Bob the SUPER robot for that wonderful little piece of programming called Half-Life.
+--------------------------------------------
+
+Author:         Chris Callow, AKA Lucky Bob, Phoenix, and anyone else just a wee bit crazy.
+
+Model Name:     Bob, the SUPER robot.
+Version:       	1
+Release Date:  	November 14, 1999
+Total Size:                     318 Kb
+Polygons:     	620 
+Vertices:     	434
+Texture Size:  	256/ 
+Team Colors:   	no
+Animations:   	Valve, of course.  But one day you will see custom animations for one of my models, You just wait and see.
+Build Time:    	About 3 hours, give or take. (I work very very very fast).
+Programs Used:	Milkshape, Studiomdl, Paintshop Pro 6
+
+Known bugs:
+On some of the weapon animations, the hands disconnect.
+I'll admit, the skin isn't the best, but using a mouse to draw on a computer is near nigh impossible for me.
+I'd really prefer a flat pressure sensitive tablet pad.  Then my real drawing talent could shine through.   
+
+Description:
+He's fast. He's suave. He' can dodge bullets while singing the opening portion of Pierre Montalbe's Ro' Del' Marche.
+He' BOB, Robot, Friend, and master of alien ass whupping.
+Bob's Personal Favorite Music is "The Girl from Impenama".
+
+Installation:
+
+Model Files:  Just place that pretty little folder with name bob on it in the models folder under the player.  It's "That" simple.
+Optional Extras:  I plan to make at lease one custom weapon for Bob.  What it will be, when it will be finished, and when will it be released
+is quite unknown to me.
+
+
+Distribution:
+Distribute these models freely - as a set or individually, but please include the text files.
+
+---------------------------------------------
+
+E-mail:	   ejcjr@showme.net
+Website:  That'll be up real soon!...(no really!)

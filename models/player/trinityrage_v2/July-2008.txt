@@ -1,0 +1,9 @@
+July, 2008:
+
+-Added custom Matrix-like animations that were with the DM version of this model.
+-Adjusted skin to compensate for "UV-shift."
+
+That is all
+
+
+This particular model has been around a LONG time - HL Deathmatch, as well as Sven Coop. Therefore, I see no reason to take credit for something as simple as adding animations. 
