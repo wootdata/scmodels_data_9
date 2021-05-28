@@ -1,1 +1,1 @@
-{"events": [{"file": "voice/girl/coverme.wav", "frame": "1", "seq": "172"}], "tri_count": "3487", "hash": "06fe319155d8720f01f09cf88c2da56a", "seq_groups": 1}
+{"seq_groups": 1, "hash": "06fe319155d8720f01f09cf88c2da56a", "tri_count": "3487", "events": [{"seq": "172", "frame": "1", "file": "voice/girl/coverme.wav"}]}
