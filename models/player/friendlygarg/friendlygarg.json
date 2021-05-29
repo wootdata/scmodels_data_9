@@ -1,1 +1,690 @@
-{"seq_groups": 1, "hash": "c16f8d0e10196132f3e28295b9d67085", "tri_count": "1894", "events": [{"seq": "3", "frame": "0", "file": "garg/gar_step1.wav"}, {"seq": "3", "frame": "9", "file": "garg/gar_step2.wav"}, {"seq": "4", "frame": "0", "file": "garg/gar_step1.wav"}, {"seq": "4", "frame": "16", "file": "garg/gar_step2.wav"}, {"seq": "6", "frame": "0", "file": "garg/gar_step1.wav"}, {"seq": "6", "frame": "16", "file": "garg/gar_step2.wav"}, {"seq": "8", "frame": "0", "file": "garg/gar_step1.wav"}, {"seq": "9", "frame": "0", "file": "garg/gar_step2.wav"}, {"seq": "12", "frame": "0", "file": "garg/gar_step1.wav"}, {"seq": "12", "frame": "9", "file": "garg/gar_step2.wav"}, {"seq": "13", "frame": "0", "file": "garg/gar_step1.wav"}, {"seq": "13", "frame": "16", "file": "garg/gar_step2.wav"}]}
+{
+	"attachments": [
+		{
+			"bone": 20,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 34,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 25,
+			"name": "",
+			"type": 0
+		}
+	],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "garg_template_biped1",
+					"polys": 1894,
+					"verts": 967
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [
+		{
+			"bone": 14,
+			"end": 60.000000,
+			"index": 0,
+			"rest": 0,
+			"start": -60.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 14,
+			"end": 35.000000,
+			"index": 1,
+			"rest": 0,
+			"start": -35.000000,
+			"type": 32
+		}
+	],
+	"events": [
+		{
+			"event": 1008,
+			"frame": 0,
+			"options": "garg/gar_step1.wav",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 1008,
+			"frame": 9,
+			"options": "garg/gar_step2.wav",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 1008,
+			"frame": 0,
+			"options": "garg/gar_step1.wav",
+			"sequence": 4,
+			"type": 0
+		}, 
+		{
+			"event": 1008,
+			"frame": 16,
+			"options": "garg/gar_step2.wav",
+			"sequence": 4,
+			"type": 0
+		}, 
+		{
+			"event": 1008,
+			"frame": 0,
+			"options": "garg/gar_step1.wav",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 1008,
+			"frame": 16,
+			"options": "garg/gar_step2.wav",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 1008,
+			"frame": 0,
+			"options": "garg/gar_step1.wav",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 1008,
+			"frame": 0,
+			"options": "garg/gar_step2.wav",
+			"sequence": 9,
+			"type": 0
+		}, 
+		{
+			"event": 1008,
+			"frame": 0,
+			"options": "garg/gar_step1.wav",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 1008,
+			"frame": 9,
+			"options": "garg/gar_step2.wav",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 1008,
+			"frame": 0,
+			"options": "garg/gar_step1.wav",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 1008,
+			"frame": 16,
+			"options": "garg/gar_step2.wav",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 9,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 13,
+			"options": "",
+			"sequence": 19,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 15,
+			"options": "",
+			"sequence": 20,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 8,
+			"options": "",
+			"sequence": 21,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 22,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 16,
+			"options": "",
+			"sequence": 23,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 24,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "c16f8d0e10196132f3e28295b9d67085",
+	"name": "C:\\Juegos\\Half-Life\\Half Life SDK\\Model compilator\\Garg\\fgarg.md¬B",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 14.000000,
+			"frames": 31,
+			"name": "look_idle"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 31,
+			"name": "idle"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 31,
+			"name": "deep_idle"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 21,
+			"name": "run"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 34,
+			"name": "walk"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 31,
+			"name": "not_shoot"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 34,
+			"name": "crawl"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 56,
+			"name": "crouch_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "jump"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 21,
+			"name": "long_jump"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 60,
+			"name": "swim"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 60,
+			"name": "treadwater"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 21,
+			"name": "run"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 34,
+			"name": "walk"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 31,
+			"name": "notaim"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 31,
+			"name": "notshoot"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 31,
+			"name": "notaim"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 31,
+			"name": "notshoot"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 76,
+			"name": "poor_garg"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 76,
+			"name": "you_was_my_best_friend"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 76,
+			"name": "do_not_dieee_pleasee"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 76,
+			"name": "buaaaaaah_bye_garg"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 76,
+			"name": "buaaaaaah"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 76,
+			"name": "buaaaaaah"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 76,
+			"name": "LoL"
+		}, 
+		{
+			"fps": 36.000000,
+			"frames": 31,
+			"name": "Melee_attack_idle"
+		}, 
+		{
+			"fps": 36.000000,
+			"frames": 55,
+			"name": "Melee_attack_Attack"
+		}, 
+		{
+			"fps": 36.000000,
+			"frames": 31,
+			"name": "Melee_attack_idle"
+		}, 
+		{
+			"fps": 36.000000,
+			"frames": 55,
+			"name": "Melee_attack_Attack"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 L Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Leg1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 L Toe0",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 L Toe1",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 L Toe2",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 R Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Leg1",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 R Toe0",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 R Toe1",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 R Toe2",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 Spine4",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 19
+		}, 
+		{
+			"name": "Dummy03",
+			"parent": 20
+		}, 
+		{
+			"name": "Bone07",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 24
+		}, 
+		{
+			"name": "Dummy08",
+			"parent": 25
+		}, 
+		{
+			"name": "Bone36",
+			"parent": 26
+		}, 
+		{
+			"name": "Dummy09",
+			"parent": 25
+		}, 
+		{
+			"name": "Bone26",
+			"parent": 28
+		}, 
+		{
+			"name": "Dummy15",
+			"parent": 25
+		}, 
+		{
+			"name": "Bone23",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 32
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 33
+		}, 
+		{
+			"name": "Dummy07",
+			"parent": 34
+		}, 
+		{
+			"name": "Bone32",
+			"parent": 35
+		}, 
+		{
+			"name": "Bone33",
+			"parent": 36
+		}, 
+		{
+			"name": "Dummy14",
+			"parent": 34
+		}, 
+		{
+			"name": "Bone20",
+			"parent": 38
+		}, 
+		{
+			"name": "Dummy10",
+			"parent": 34
+		}, 
+		{
+			"name": "Bone29",
+			"parent": 40
+		}, 
+		{
+			"name": "Dummy19",
+			"parent": 15
+		}, 
+		{
+			"name": "Bone39",
+			"parent": 42
+		}, 
+		{
+			"name": "Dummy05",
+			"parent": 1
+		}, 
+		{
+			"name": "Bone15",
+			"parent": 44
+		}, 
+		{
+			"name": "Bone16",
+			"parent": 45
+		}, 
+		{
+			"name": "Bone17",
+			"parent": 46
+		}, 
+		{
+			"name": "Dummy04",
+			"parent": 1
+		}, 
+		{
+			"name": "Bone10",
+			"parent": 48
+		}, 
+		{
+			"name": "Bone11",
+			"parent": 49
+		}, 
+		{
+			"name": "Bone12",
+			"parent": 50
+		}, 
+		{
+			"name": "Dummy02",
+			"parent": 1
+		}, 
+		{
+			"name": "Bone01",
+			"parent": 52
+		}, 
+		{
+			"name": "Bone02",
+			"parent": 53
+		}, 
+		{
+			"name": "Bone03",
+			"parent": 54
+		}, 
+		{
+			"name": "Bone04",
+			"parent": 55
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 37,
+			"name": "GARG_Pelvis1.bmp",
+			"width": 48
+		}, 
+		{
+			"flags": 0,
+			"height": 49,
+			"name": "GARG_S-Rim1.bmp",
+			"width": 40
+		}, 
+		{
+			"flags": 0,
+			"height": 95,
+			"name": "GARG_Temple1.bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 113,
+			"name": "GARG_Face1.bmp",
+			"width": 104
+		}, 
+		{
+			"flags": 0,
+			"height": 100,
+			"name": "GARG_Spine3.bmp",
+			"width": 12
+		}, 
+		{
+			"flags": 0,
+			"height": 58,
+			"name": "GARG_Coccyx1.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 47,
+			"name": "GARG_Spine1.bmp",
+			"width": 20
+		}, 
+		{
+			"flags": 0,
+			"height": 19,
+			"name": "GARG_Jaw1.bmp",
+			"width": 40
+		}, 
+		{
+			"flags": 0,
+			"height": 20,
+			"name": "GARG_Throat1.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 115,
+			"name": "GARG_Leg1.bmp",
+			"width": 88
+		}, 
+		{
+			"flags": 0,
+			"height": 73,
+			"name": "GARG_Stomach1.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 37,
+			"name": "GARG_SClaw1.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 30,
+			"name": "GARG_Jaw2.bmp",
+			"width": 48
+		}, 
+		{
+			"flags": 0,
+			"height": 48,
+			"name": "GARG_Side1.bmp",
+			"width": 80
+		}, 
+		{
+			"flags": 0,
+			"height": 86,
+			"name": "GARG_Side2.bmp",
+			"width": 56
+		}, 
+		{
+			"flags": 0,
+			"height": 17,
+			"name": "GARG_BFoot1.bmp",
+			"width": 12
+		}, 
+		{
+			"flags": 0,
+			"height": 113,
+			"name": "GARG_Arms1.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 31,
+			"name": "GARG_Claw1.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 3,
+			"height": 64,
+			"name": "GARG_Chrome2.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 63,
+			"name": "Tounge1.bmp",
+			"width": 20
+		}
+	],
+	"version": 10
+}

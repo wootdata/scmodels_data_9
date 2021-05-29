@@ -1,1 +1,1491 @@
-{"seq_groups": 1, "hash": "93703d6e57680fb2af352cb2c28e42b2", "tri_count": "2470", "events": [{"seq": "12", "frame": "0", "file": "player/bxa00dead011.wav"}, {"seq": "13", "frame": "0", "file": "player/bxa00dead021.wav"}, {"seq": "14", "frame": "0", "file": "player/bxa00dead021.wav"}, {"seq": "15", "frame": "0", "file": "player/bxa00dead011.wav"}, {"seq": "16", "frame": "0", "file": "player/bxa00dead021.wav"}, {"seq": "17", "frame": "0", "file": "player/bxa00dead011.wav"}, {"seq": "18", "frame": "0", "file": "player/bxa00dead021.wav"}]}
+{
+	"attachments": [
+		{
+			"bone": 24,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 24,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 24,
+			"name": "",
+			"type": 0
+		}
+	],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "refka",
+					"polys": 2470,
+					"verts": 1261
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [
+		{
+			"bone": 8,
+			"end": 30.000000,
+			"index": 0,
+			"rest": 0,
+			"start": -30.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 9,
+			"end": 30.000000,
+			"index": 1,
+			"rest": 0,
+			"start": -30.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 10,
+			"end": 30.000000,
+			"index": 2,
+			"rest": 0,
+			"start": -30.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 11,
+			"end": 30.000000,
+			"index": 3,
+			"rest": 0,
+			"start": -30.000000,
+			"type": 8
+		}
+	],
+	"events": [
+		{
+			"event": 2001,
+			"frame": 9,
+			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/bxa00dead011.wav",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 13,
+			"options": "",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/bxa00dead021.wav",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 15,
+			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/bxa00dead021.wav",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 8,
+			"options": "",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/bxa00dead011.wav",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/bxa00dead021.wav",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 16,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/bxa00dead011.wav",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/bxa00dead021.wav",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "15",
+			"sequence": 49,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "15",
+			"sequence": 53,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "15",
+			"sequence": 57,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "15",
+			"sequence": 61,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 0,
+			"options": "20",
+			"sequence": 65,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 0,
+			"options": "20",
+			"sequence": 69,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 0,
+			"options": "20",
+			"sequence": 73,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 0,
+			"options": "20",
+			"sequence": 76,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 0,
+			"options": "20",
+			"sequence": 79,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 0,
+			"options": "20",
+			"sequence": 83,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 0,
+			"options": "20",
+			"sequence": 91,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 0,
+			"options": "20",
+			"sequence": 113,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 0,
+			"options": "20",
+			"sequence": 115,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 0,
+			"options": "20",
+			"sequence": 119,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 0,
+			"options": "20",
+			"sequence": 121,
+			"type": 0
+		}, 
+		{
+			"event": 5021,
+			"frame": 0,
+			"options": "20",
+			"sequence": 125,
+			"type": 0
+		}, 
+		{
+			"event": 5021,
+			"frame": 0,
+			"options": "20",
+			"sequence": 128,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "15",
+			"sequence": 132,
+			"type": 0
+		}, 
+		{
+			"event": 5031,
+			"frame": 0,
+			"options": "15",
+			"sequence": 132,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "15",
+			"sequence": 133,
+			"type": 0
+		}, 
+		{
+			"event": 5031,
+			"frame": 0,
+			"options": "15",
+			"sequence": 134,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "15",
+			"sequence": 140,
+			"type": 0
+		}, 
+		{
+			"event": 5031,
+			"frame": 0,
+			"options": "15",
+			"sequence": 140,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "15",
+			"sequence": 141,
+			"type": 0
+		}, 
+		{
+			"event": 5031,
+			"frame": 0,
+			"options": "15",
+			"sequence": 142,
+			"type": 0
+		}, 
+		{
+			"event": 5005,
+			"frame": 0,
+			"options": "muzzle_spaw.txt",
+			"sequence": 147,
+			"type": 0
+		}, 
+		{
+			"event": 5005,
+			"frame": 0,
+			"options": "muzzle_spaw.txt",
+			"sequence": 153,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 0,
+			"options": "20",
+			"sequence": 159,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 0,
+			"options": "20",
+			"sequence": 161,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 0,
+			"options": "20",
+			"sequence": 165,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 0,
+			"options": "20",
+			"sequence": 167,
+			"type": 0
+		}, 
+		{
+			"event": 5005,
+			"frame": 0,
+			"options": "muzzle_spaw.txt",
+			"sequence": 171,
+			"type": 0
+		}, 
+		{
+			"event": 5005,
+			"frame": 0,
+			"options": "muzzle_spaw.txt",
+			"sequence": 175,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "93703d6e57680fb2af352cb2c28e42b2",
+	"name": "C:\\Documents and Settings\\APOCALIPSIS\\Escritorio\\simon2\\simon2.mh}",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 14.000000,
+			"frames": 61,
+			"name": "look_idle"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 61,
+			"name": "idle"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 61,
+			"name": "deep_idle"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 25,
+			"name": "run2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 17,
+			"name": "walk2handed"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 8,
+			"name": "2handshoot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "crawl"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 31,
+			"name": "crouch_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 128,
+			"name": "jump"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 21,
+			"name": "long_jump"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "swim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 61,
+			"name": "treadwater"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 46,
+			"name": "die_simple"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 60,
+			"name": "die_backwards1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 60,
+			"name": "die_backwards"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 39,
+			"name": "die_forwards"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 47,
+			"name": "headshot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "die_spin"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 72,
+			"name": "gutshot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 7,
+			"name": "What_I_May"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 32,
+			"name": "Never_Know"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "is_the_place"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 7,
+			"name": "of_the_maze"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 32,
+			"name": "in_which"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 31,
+			"name": "I_would"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 9,
+			"name": "have_erased"
+		}, 
+		{
+			"fps": 13.000000,
+			"frames": 1,
+			"name": "some_f-cking"
+		}, 
+		{
+			"fps": 13.000000,
+			"frames": 14,
+			"name": "Fairies"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 9,
+			"name": "from_space"
+		}, 
+		{
+			"fps": 13.000000,
+			"frames": 1,
+			"name": "i_neglected"
+		}, 
+		{
+			"fps": 13.000000,
+			"frames": 14,
+			"name": "to_ask"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 7,
+			"name": "before_i_killed"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "the_last_dairy"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 15,
+			"name": "farmer_who_knew"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 1,
+			"name": "I_wish"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 12,
+			"name": "I_Had_Waited_for_You"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 7,
+			"name": "I_wish_I"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "Could_Invoke"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 15,
+			"name": "Some_Better_Part"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 1,
+			"name": "Of_me"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 12,
+			"name": "I_Know"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 11,
+			"name": "Im_Supposed_to_Be"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "All_The_One"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 13,
+			"name": "But_I_Have_Too"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 11,
+			"name": "Much_Fun"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "Killing_Everyone"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 13,
+			"name": "I_Came"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 31,
+			"name": "Here_to_Play"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 31,
+			"name": "now_could_you"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 83,
+			"name": "come_out"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 41,
+			"name": "and_stay"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 31,
+			"name": "so_I_can"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 31,
+			"name": "Kill_and_Away"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 83,
+			"name": "You_to_The_Gods"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 41,
+			"name": "You_Pray"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 31,
+			"name": "To_And"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "Never_Look_Back"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "---------"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 41,
+			"name": "Cancion_Por"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 31,
+			"name": "Machinae_Supremacy"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 7,
+			"name": "Disco"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "A_Look_from_the_End_of_the_World"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 41,
+			"name": "----------"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 31,
+			"name": "Ahora_que_estoy"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "Aqui_quisiera"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 8,
+			"name": "Agradecer"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 23,
+			"name": "A_todos_los_de"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 31,
+			"name": "la_comunidad"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "ImperiumGames"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 8,
+			"name": "Por_hacer_de_ISC"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 23,
+			"name": "Una_Gran_Comunidad"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 31,
+			"name": "Quisiera_tambien"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "Agradecer_a_"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 8,
+			"name": "Todos_mis_amigos"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 31,
+			"name": "Por_el_apoyo_que"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "me_han_brindado"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 8,
+			"name": "En_los_tiempos"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 31,
+			"name": "dificiles"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "En_especial_a"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 8,
+			"name": "Mi_amada_amiga"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 41,
+			"name": "Javiera"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 31,
+			"name": "Gracias_por_todo"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "Te_Amo"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 8,
+			"name": "-------"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 41,
+			"name": "The_lonely_night"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 31,
+			"name": "Comes_to_an_end"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "and_I_realise"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 8,
+			"name": "just_how_much_time"
+		}, 
+		{
+			"fps": 13.000000,
+			"frames": 24,
+			"name": "has_passed"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 31,
+			"name": "these_unfamiliar"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "feelng_that"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 8,
+			"name": "have_sprouted"
+		}, 
+		{
+			"fps": 13.000000,
+			"frames": 24,
+			"name": "in_the_Garden"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 11,
+			"name": "of_my_Heart"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "only_Continue"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 21,
+			"name": "to_Grow"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 11,
+			"name": "Holding_to_this"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "Prayer_that_youve"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 21,
+			"name": "Given_me"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 11,
+			"name": "Together_with_a"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "Little_wish_in_my"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 11,
+			"name": "Heart"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 11,
+			"name": "I_send_them"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "now_to_the_starry"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 11,
+			"name": "night_sky"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 7,
+			"name": "and_bring_warmth"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "to_this_freezing"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "cold"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 7,
+			"name": "Let_us_dance"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "an_elegant_waltz"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "I_wont_be_defeated"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 31,
+			"name": "retreat_or_falter"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "ive_always_been"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 8,
+			"name": "Shouting_within"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "My_Heart"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 8,
+			"name": "why_is_that"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 41,
+			"name": "I_keep_longing"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 31,
+			"name": "for_you"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "I_Love_You"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 8,
+			"name": "It_makes_me"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "laught_when_I_look_back"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 8,
+			"name": "because_I_am"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 41,
+			"name": "jealous_and_selfish"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 16,
+			"name": "the_first_to_fall"
+		}, 
+		{
+			"fps": 8.000000,
+			"frames": 21,
+			"name": "in_love_is_the_one"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 9,
+			"name": "who_loses"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 16,
+			"name": "and_these_unfamiliar"
+		}, 
+		{
+			"fps": 8.000000,
+			"frames": 21,
+			"name": "feelings_continue_to_grow"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 9,
+			"name": "why_why_is_it"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "that_Ill_break_apart"
+		}, 
+		{
+			"fps": 11.000000,
+			"frames": 23,
+			"name": "If_I_Tell"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 21,
+			"name": "You_how_I_feel"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 7,
+			"name": "You_and_I_are"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 7,
+			"name": "of_a_different_kind"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 7,
+			"name": "and_the_one"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 35,
+			"name": "who_cries_last_will_be"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 35,
+			"name": "me"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "________"
+		}, 
+		{
+			"fps": 11.000000,
+			"frames": 23,
+			"name": "Cancion"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 21,
+			"name": "Alice_Sweet"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 7,
+			"name": "Disco"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 7,
+			"name": "Touhou_River_Vision_Dog_Blue_Pon"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 7,
+			"name": "_________"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 35,
+			"name": "debes_estar_muy"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 35,
+			"name": "aburrido_como_para"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 31,
+			"name": "haber_leido_todo"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "tan_aburrido_como"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 8,
+			"name": "yo_al_hacer_esto"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "pero_la_diferencia"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 41,
+			"name": "esque_yo_Estaba"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 66,
+			"name": "inspirado_y"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 31,
+			"name": "tu_no"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "-trollface-"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 8,
+			"name": "__________"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "di_la_PSU"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 41,
+			"name": "estaba_pelua_la_wea"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 66,
+			"name": "conchetumare"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 31,
+			"name": "viejos_culiaos"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "que_la_inventaron"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 8,
+			"name": "___________"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "sigan_sus"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 8,
+			"name": "metas_y_aspiraciones"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 41,
+			"name": "nunca_se_rindan"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 31,
+			"name": "haganlas_realidad"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "sean_felices"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 8,
+			"name": "sonrian_abrasen"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "diganles_cuanto"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 8,
+			"name": "quieren_a_sus"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 41,
+			"name": "amigos_y_amigas"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 31,
+			"name": "no_discriminen"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "no_hagan_idioteces"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 8,
+			"name": "para_provocar"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 211,
+			"name": "que_los_demas"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 31,
+			"name": "los_discriminen_a"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "ustedes"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 8,
+			"name": "hagamos_un_mundo"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 211,
+			"name": "mucho_mas_bueno"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "deadback"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "deadsitting"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "deadstomach"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 31,
+			"name": "deadtable"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 10,
+			"name": "ImperiumSvenCoop"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 L Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Leg1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 R Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Leg1",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 26
+		}, 
+		{
+			"name": "Dummy10",
+			"parent": 13
+		}, 
+		{
+			"name": "Bone13",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 32
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "glove_256.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "hoodie_grey.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "shoe_cut.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "jeans.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "mouth.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "head_face.bmp",
+			"width": 512
+		}
+	],
+	"version": 10
+}

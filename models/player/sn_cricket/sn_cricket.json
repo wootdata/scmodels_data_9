@@ -1,1 +1,161 @@
-{"seq_groups": 1, "hash": "9cb0771537a524011598c4f948573a8a", "tri_count": "230"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "base",
+					"polys": 230,
+					"verts": 138
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "9cb0771537a524011598c4f948573a8a",
+	"name": "c:\\3dsmax25/cricket.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 45.000000,
+			"frames": 21,
+			"name": "walk"
+		}, 
+		{
+			"fps": 60.000000,
+			"frames": 21,
+			"name": "run"
+		}, 
+		{
+			"fps": 60.000000,
+			"frames": 81,
+			"name": "angry"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 16,
+			"name": "flinch"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 1,
+			"name": "dieback"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 13,
+			"name": "180_left"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 13,
+			"name": "180_right"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 31,
+			"name": "jump"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 31,
+			"name": "jump_variation1"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 31,
+			"name": "jump_variation2"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Dummy01",
+			"parent": -1
+		}, 
+		{
+			"name": "Dummy04",
+			"parent": 0
+		}, 
+		{
+			"name": "Dummy02",
+			"parent": 0
+		}, 
+		{
+			"name": "Dummy10",
+			"parent": 0
+		}, 
+		{
+			"name": "Dummy12",
+			"parent": 3
+		}, 
+		{
+			"name": "Dummy13",
+			"parent": 4
+		}, 
+		{
+			"name": "Dummy06",
+			"parent": 0
+		}, 
+		{
+			"name": "Dummy07",
+			"parent": 6
+		}, 
+		{
+			"name": "Dummy08",
+			"parent": 7
+		}, 
+		{
+			"name": "Dummy11",
+			"parent": 0
+		}, 
+		{
+			"name": "Dummy15",
+			"parent": 9
+		}, 
+		{
+			"name": "Dummy16",
+			"parent": 10
+		}, 
+		{
+			"name": "Dummy21",
+			"parent": 0
+		}, 
+		{
+			"name": "Dummy20",
+			"parent": 12
+		}, 
+		{
+			"name": "Dummy19",
+			"parent": 13
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 112,
+			"name": "cricket.bmp",
+			"width": 128
+		}
+	],
+	"version": 10
+}

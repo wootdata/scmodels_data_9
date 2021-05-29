@@ -1,1 +1,975 @@
-{"seq_groups": 1, "hash": "6618cf4c7c81f6ca31f0f3bb23f33b40", "tri_count": "3515"}
+{
+	"attachments": [
+		{
+			"bone": 20,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 20,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 20,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 11,
+			"name": "",
+			"type": 0
+		}
+	],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "s1",
+					"polys": 2088,
+					"verts": 1074
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "s2",
+					"polys": 1197,
+					"verts": 717
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "1",
+					"polys": 104,
+					"verts": 68
+				}, 
+				{
+					"name": "2",
+					"polys": 126,
+					"verts": 91
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [
+		{
+			"bone": 8,
+			"end": 30.000000,
+			"index": 0,
+			"rest": 0,
+			"start": -30.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 9,
+			"end": 30.000000,
+			"index": 1,
+			"rest": 0,
+			"start": -30.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 10,
+			"end": 30.000000,
+			"index": 2,
+			"rest": 0,
+			"start": -30.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 8,
+			"end": 45.000000,
+			"index": 3,
+			"rest": 0,
+			"start": -45.000000,
+			"type": 32
+		}
+	],
+	"events": [
+		{
+			"event": 2001,
+			"frame": 15,
+			"options": "",
+			"sequence": 10,
+			"type": 0
+		}, 
+		{
+			"event": 1905,
+			"frame": 0,
+			"options": "",
+			"sequence": 23,
+			"type": 0
+		}, 
+		{
+			"event": 1903,
+			"frame": 9,
+			"options": "",
+			"sequence": 23,
+			"type": 0
+		}, 
+		{
+			"event": 1902,
+			"frame": 8,
+			"options": "",
+			"sequence": 25,
+			"type": 0
+		}, 
+		{
+			"event": 1903,
+			"frame": 5,
+			"options": "",
+			"sequence": 27,
+			"type": 0
+		}, 
+		{
+			"event": 1905,
+			"frame": 0,
+			"options": "",
+			"sequence": 29,
+			"type": 0
+		}, 
+		{
+			"event": 1901,
+			"frame": 19,
+			"options": "",
+			"sequence": 30,
+			"type": 0
+		}, 
+		{
+			"event": 1902,
+			"frame": 50,
+			"options": "",
+			"sequence": 30,
+			"type": 0
+		}, 
+		{
+			"event": 1901,
+			"frame": 19,
+			"options": "",
+			"sequence": 31,
+			"type": 0
+		}, 
+		{
+			"event": 1902,
+			"frame": 50,
+			"options": "",
+			"sequence": 31,
+			"type": 0
+		}, 
+		{
+			"event": 1903,
+			"frame": 93,
+			"options": "",
+			"sequence": 31,
+			"type": 0
+		}, 
+		{
+			"event": 1904,
+			"frame": 96,
+			"options": "",
+			"sequence": 31,
+			"type": 0
+		}, 
+		{
+			"event": 1905,
+			"frame": 0,
+			"options": "",
+			"sequence": 33,
+			"type": 0
+		}, 
+		{
+			"event": 1901,
+			"frame": 19,
+			"options": "",
+			"sequence": 34,
+			"type": 0
+		}, 
+		{
+			"event": 1902,
+			"frame": 55,
+			"options": "",
+			"sequence": 34,
+			"type": 0
+		}, 
+		{
+			"event": 1901,
+			"frame": 19,
+			"options": "",
+			"sequence": 35,
+			"type": 0
+		}, 
+		{
+			"event": 1902,
+			"frame": 55,
+			"options": "",
+			"sequence": 35,
+			"type": 0
+		}, 
+		{
+			"event": 1903,
+			"frame": 75,
+			"options": "",
+			"sequence": 35,
+			"type": 0
+		}, 
+		{
+			"event": 1904,
+			"frame": 86,
+			"options": "",
+			"sequence": 35,
+			"type": 0
+		}, 
+		{
+			"event": 1905,
+			"frame": 0,
+			"options": "",
+			"sequence": 37,
+			"type": 0
+		}, 
+		{
+			"event": 1901,
+			"frame": 10,
+			"options": "",
+			"sequence": 39,
+			"type": 0
+		}, 
+		{
+			"event": 1902,
+			"frame": 45,
+			"options": "",
+			"sequence": 39,
+			"type": 0
+		}, 
+		{
+			"event": 1901,
+			"frame": 10,
+			"options": "",
+			"sequence": 40,
+			"type": 0
+		}, 
+		{
+			"event": 1902,
+			"frame": 45,
+			"options": "",
+			"sequence": 40,
+			"type": 0
+		}, 
+		{
+			"event": 1903,
+			"frame": 75,
+			"options": "",
+			"sequence": 40,
+			"type": 0
+		}, 
+		{
+			"event": 1904,
+			"frame": 80,
+			"options": "",
+			"sequence": 40,
+			"type": 0
+		}, 
+		{
+			"event": 1901,
+			"frame": 10,
+			"options": "",
+			"sequence": 41,
+			"type": 0
+		}, 
+		{
+			"event": 1902,
+			"frame": 55,
+			"options": "",
+			"sequence": 41,
+			"type": 0
+		}, 
+		{
+			"event": 1901,
+			"frame": 10,
+			"options": "",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 1902,
+			"frame": 55,
+			"options": "",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 1903,
+			"frame": 78,
+			"options": "",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 1905,
+			"frame": 0,
+			"options": "",
+			"sequence": 62,
+			"type": 0
+		}, 
+		{
+			"event": 1901,
+			"frame": 16,
+			"options": "",
+			"sequence": 63,
+			"type": 0
+		}, 
+		{
+			"event": 1902,
+			"frame": 58,
+			"options": "",
+			"sequence": 63,
+			"type": 0
+		}, 
+		{
+			"event": 1901,
+			"frame": 16,
+			"options": "",
+			"sequence": 64,
+			"type": 0
+		}, 
+		{
+			"event": 1902,
+			"frame": 58,
+			"options": "",
+			"sequence": 64,
+			"type": 0
+		}, 
+		{
+			"event": 1903,
+			"frame": 76,
+			"options": "",
+			"sequence": 64,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 19,
+			"options": "",
+			"sequence": 70,
+			"type": 0
+		}, 
+		{
+			"event": 1901,
+			"frame": 7,
+			"options": "",
+			"sequence": 74,
+			"type": 0
+		}, 
+		{
+			"event": 1902,
+			"frame": 1,
+			"options": "",
+			"sequence": 75,
+			"type": 0
+		}, 
+		{
+			"event": 1903,
+			"frame": 10,
+			"options": "",
+			"sequence": 76,
+			"type": 0
+		}, 
+		{
+			"event": 1905,
+			"frame": 0,
+			"options": "",
+			"sequence": 80,
+			"type": 0
+		}, 
+		{
+			"event": 1901,
+			"frame": 19,
+			"options": "",
+			"sequence": 80,
+			"type": 0
+		}, 
+		{
+			"event": 1902,
+			"frame": 29,
+			"options": "",
+			"sequence": 80,
+			"type": 0
+		}, 
+		{
+			"event": 1901,
+			"frame": 8,
+			"options": "",
+			"sequence": 81,
+			"type": 0
+		}, 
+		{
+			"event": 1902,
+			"frame": 1,
+			"options": "",
+			"sequence": 83,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "6618cf4c7c81f6ca31f0f3bb23f33b40",
+	"name": "police2.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "pro"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "knockout"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 29,
+			"name": "walk"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 25,
+			"name": "run"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "sprint"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 29,
+			"name": "stamina"
+		}, 
+		{
+			"fps": 37.000000,
+			"frames": 31,
+			"name": "crouch_crouch"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "crouch_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 34,
+			"name": "jump"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 28,
+			"name": "death"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 76,
+			"name": "revived"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "cpr_down"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 17,
+			"name": "cpr_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "cpr_up"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "fall_down"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "fall_get_up"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 76,
+			"name": "door"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "taller_fall"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 18,
+			"name": "taller_land"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 18,
+			"name": "taller_lie"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 74,
+			"name": "taller_getup"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "shotgun_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 27,
+			"name": "shotgun_shoot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 15,
+			"name": "shotgun_reload_start"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 20,
+			"name": "shotgun_reload_insert"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 15,
+			"name": "shotgun_reload_end"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "shotgun_reload_endempty"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "m16_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "m16_shoot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 91,
+			"name": "m16_reload"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 121,
+			"name": "m16_reloadempty"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "tmp_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 26,
+			"name": "tmp_shoot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 76,
+			"name": "tmp_reload"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 111,
+			"name": "tmp_reloadempty"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "pistol_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "pistol_shoot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "pistol_melee"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 63,
+			"name": "pistol_reload"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 106,
+			"name": "pistol_reloadempty"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "p345_reload"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 96,
+			"name": "p345_reloadempty"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "nightstick_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "nightstick_attack"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "switchblade_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "switchblade_attack1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 37,
+			"name": "switchblade_attack2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "branch_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "branch_attack"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "sledgehammer_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "sledgehammer_attack"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "syringe_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 106,
+			"name": "syringe_use"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 80,
+			"name": "syringe_heal_player_hit"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "radio_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "radio_melee"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 301,
+			"name": "pidle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 301,
+			"name": "pidle2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 301,
+			"name": "pidle3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 301,
+			"name": "pidle4"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "vp70_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "vp70_shoot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 77,
+			"name": "vp70_reload"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 111,
+			"name": "vp70_reload_empty"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "vp70_melee"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 36,
+			"name": "shotgun_melee"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 36,
+			"name": "m16_melee"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 36,
+			"name": "branch_melee"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "tmp_melee"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "crouch_death"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 77,
+			"name": "crouch_revived"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "crouch_cpr_down"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "crouch_cpr_up"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "revolver_reload_start"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 26,
+			"name": "revolver_reload_insert"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "revolver_reload_end"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 17,
+			"name": "crouch_cpr_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 18,
+			"name": "crouch_taller_lie"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "rifle_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "rifle_shoot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "rifle_reload_start"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 26,
+			"name": "rifle_reload_insert"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "rifle_reload_end"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 36,
+			"name": "rifle_melee"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 L Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Leg1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 R Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Leg1",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 500,
+			"name": "remf.bmp",
+			"width": 500
+		}, 
+		{
+			"flags": 0,
+			"height": 400,
+			"name": "rem.bmp",
+			"width": 400
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "flashlight_tex_512.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "flashlight_tex_fullbright.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 32,
+			"height": 128,
+			"name": "light_fullbright.BMP",
+			"width": 128
+		}
+	],
+	"version": 10
+}
