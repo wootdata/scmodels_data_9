@@ -553,13 +553,13 @@
 	],
 	"id": 1414743113,
 	"md5": "d5deb7dcbb0a2b045c22ace8e1a6d177",
-	"name": "베이스.mdl",
+	"name": ".mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
 			"fps": 14.000000,
 			"frames": 30,
-			"name": "By_텐코"
+			"name": "By_"
 		}, 
 		{
 			"fps": 14.000000,
