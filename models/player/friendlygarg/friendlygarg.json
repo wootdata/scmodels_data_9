@@ -332,6 +332,7 @@
 			"name": "Melee_attack_Attack"
 		}
 	],
+	"size": 344748,
 	"skeleton": [
 		{
 			"name": "Bip01",

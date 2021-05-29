@@ -565,6 +565,7 @@
 			"name": "deadtable"
 		}
 	],
+	"size": 320512,
 	"skeleton": [
 		{
 			"name": "Bip01",

@@ -847,6 +847,7 @@
 			"name": "rifle_melee"
 		}
 	],
+	"size": 809800,
 	"skeleton": [
 		{
 			"name": "Bip01",
