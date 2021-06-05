@@ -1,22 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 14,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 14,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 14,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 10,
+			"bone": 17,
 			"name": "",
 			"type": 0
 		}
@@ -25,9 +25,29 @@
 		{
 			"models": [
 				{
-					"name": "kumamon_ref",
-					"polys": 3118,
-					"verts": 1645
+					"name": "monoko2_dummy",
+					"polys": 605,
+					"verts": 26
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "monoko2_monokom1",
+					"polys": 1820,
+					"verts": 955
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "monoko2_monokom2",
+					"polys": 2780,
+					"verts": 1429
 				}
 			],
 			"name": "body"
@@ -35,7 +55,7 @@
 	],
 	"controllers": [
 		{
-			"bone": 2,
+			"bone": 8,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -43,7 +63,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 3,
+			"bone": 9,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -51,7 +71,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 4,
+			"bone": 10,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -59,20 +79,12 @@
 			"type": 8
 		}, 
 		{
-			"bone": 5,
+			"bone": 11,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
 			"start": -30.000000,
 			"type": 8
-		}, 
-		{
-			"bone": 17,
-			"end": 35.000000,
-			"index": 4,
-			"rest": 0,
-			"start": 0.000000,
-			"type": 32
 		}
 	],
 	"events": [
@@ -154,30 +166,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -309,18 +321,18 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "258df9cf7fd4e6738ec7d23c9fd93cea",
-	"name": "kumamon.mdl",
+	"md5": "fad6418f8564b3f57b41c0b00ea63900",
+	"name": "monoko2.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
 			"fps": 14.000000,
-			"frames": 29,
+			"frames": 31,
 			"name": "look_idle"
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 29,
+			"frames": 31,
 			"name": "idle"
 		}, 
 		{
@@ -1269,7 +1281,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1248600,
+	"size": 1308868,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1280,100 +1292,16 @@
 			"parent": 0
 		}, 
 		{
-			"name": "Bip01 Spine",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 Spine1",
-			"parent": 2
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 3
-		}, 
-		{
-			"name": "Bip01 Spine3",
-			"parent": 4
-		}, 
-		{
-			"name": "Bip01 Neck",
-			"parent": 5
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 7
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 R Arm",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 R Arm1",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 R Arm2",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 R Hand",
-			"parent": 13
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 6
-		}, 
-		{
-			"name": "Dummy21",
-			"parent": 15
-		}, 
-		{
-			"name": "Bone02",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 Eye",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 Eye1",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 Eye2",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 Eye3",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 Eye4",
-			"parent": 15
-		}, 
-		{
 			"name": "Bip01 L Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 23
+			"parent": 2
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 24
+			"parent": 3
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -1381,23 +1309,115 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 26
+			"parent": 5
 		}, 
 		{
 			"name": "Bip01 R Foot",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 R Finger0",
 			"parent": 27
 		}, 
 		{
-			"name": "Bip01 L Ear",
-			"parent": 15
+			"name": "Bip01 R Finger01",
+			"parent": 28
 		}, 
 		{
-			"name": "Bip01 R Ear",
-			"parent": 15
+			"name": "Bip01 R Finger02",
+			"parent": 29
 		}, 
 		{
-			"name": "Bip01 Tail",
-			"parent": 1
+			"name": "Bip01 R Finger1",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 31
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 32
 		}
 	],
 	"skins": 1,
@@ -1405,15 +1425,15 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "remapA_208_255_255.bmp",
-			"width": 512
+			"height": 2,
+			"name": "dummy.bmp",
+			"width": 4
 		}, 
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "kumamon_eye.bmp",
-			"width": 256
+			"height": 512,
+			"name": "monoko.bmp",
+			"width": 512
 		}
 	],
 	"version": 10
