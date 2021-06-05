@@ -1,12 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 15,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 11,
+			"bone": 21,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 21,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 17,
 			"name": "",
 			"type": 0
 		}
@@ -15,97 +25,17 @@
 		{
 			"models": [
 				{
-					"name": "pepsiman_p0",
-					"polys": 590,
-					"verts": 716
+					"name": "Cannibal_Template1",
+					"polys": 562,
+					"verts": 316
 				}
 			],
-			"name": "studio"
-		}, 
-		{
-			"models": [
-				{
-					"name": "pepsiman_p1",
-					"polys": 472,
-					"verts": 252
-				}
-			],
-			"name": "studio"
-		}, 
-		{
-			"models": [
-				{
-					"name": "pepsiman_p2",
-					"polys": 1586,
-					"verts": 805
-				}
-			],
-			"name": "studio"
-		}, 
-		{
-			"models": [
-				{
-					"name": "pepsiman_p3",
-					"polys": 1810,
-					"verts": 929
-				}
-			],
-			"name": "studio"
-		}, 
-		{
-			"models": [
-				{
-					"name": "pepsiman_p4",
-					"polys": 1726,
-					"verts": 924
-				}
-			],
-			"name": "studio"
-		}, 
-		{
-			"models": [
-				{
-					"name": "pepsiman_p5",
-					"polys": 2112,
-					"verts": 1114
-				}
-			],
-			"name": "studio"
-		}, 
-		{
-			"models": [
-				{
-					"name": "pepsiman_p6",
-					"polys": 2128,
-					"verts": 1131
-				}
-			],
-			"name": "studio"
-		}, 
-		{
-			"models": [
-				{
-					"name": "pepsiman_p7",
-					"polys": 2250,
-					"verts": 1197
-				}
-			],
-			"name": "studio"
-		}, 
-		{
-			"models": [
-				{
-					"name": "pepsiman_p8",
-					"polys": 3204,
-					"verts": 1611
-				}
-			],
-			"name": "studio"
+			"name": "body"
 		}
 	],
 	"controllers": [
 		{
-			"bone": 2,
+			"bone": 8,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -113,7 +43,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 3,
+			"bone": 9,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -121,7 +51,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 4,
+			"bone": 10,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -129,7 +59,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 5,
+			"bone": 11,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -371,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "290fc655152c29ee67e13ea8e7fd82a2",
-	"name": "pepsiman.mdl",
+	"md5": "bd15f546162f0288534d9523deb83054",
+	"name": "cannibal.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -422,7 +352,7 @@
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 21,
+			"frames": 37,
 			"name": "long_jump"
 		}, 
 		{
@@ -1331,7 +1261,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1476404,
+	"size": 919440,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1342,72 +1272,16 @@
 			"parent": 0
 		}, 
 		{
-			"name": "Bip01 Spine",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 Spine1",
-			"parent": 2
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 3
-		}, 
-		{
-			"name": "Bip01 Spine3",
-			"parent": 4
-		}, 
-		{
-			"name": "Bip01 Neck",
-			"parent": 5
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 R Arm",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 R Arm1",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 R Arm2",
-			"parent": 13
-		}, 
-		{
-			"name": "Bip01 R Hand",
-			"parent": 14
-		}, 
-		{
 			"name": "Bip01 L Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 16
+			"parent": 2
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 17
+			"parent": 3
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -1415,27 +1289,77 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 19
+			"parent": 5
 		}, 
 		{
 			"name": "Bip01 R Foot",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 R Hand",
 			"parent": 20
 		}
 	],
 	"skins": 1,
-	"t_model": true,
+	"t_model": false,
 	"textures": [
 		{
 			"flags": 0,
-			"height": 128,
-			"name": "default.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 0,
-			"height": 512,
-			"name": "tx_body_M.bmp",
-			"width": 512
+			"height": 256,
+			"name": "Pepsiman.bmp",
+			"width": 256
 		}
 	],
 	"version": 10
