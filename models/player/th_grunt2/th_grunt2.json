@@ -146,30 +146,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "72726fb873b568051178d88fa7e5c15c",
-	"name": "th_grunt2.mdl",
+	"md5": "a766422d1b79bc52a9ebdd7fe6c8d29b",
+	"name": "dm_helmet.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -352,7 +352,7 @@
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 21,
+			"frames": 37,
 			"name": "long_jump"
 		}, 
 		{
@@ -1214,54 +1214,9 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 9,
-			"name": "barnaclehit"
-		}, 
-		{
-			"fps": 25.000000,
-			"frames": 81,
-			"name": "barnaclepull"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 36,
-			"name": "barnaclecrunch"
-		}, 
-		{
-			"fps": 15.000000,
-			"frames": 36,
-			"name": "barnaclechew"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 21,
-			"name": "use_console_loop"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 201,
-			"name": "use_console_loop2"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 66,
-			"name": "action_retina"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 81,
-			"name": "action_studycart"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 22,
-			"name": "action_wave"
 		}
 	],
-	"size": 895976,
+	"size": 853384,
 	"skeleton": [
 		{
 			"name": "Bip01",

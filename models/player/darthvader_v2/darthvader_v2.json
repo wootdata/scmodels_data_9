@@ -1,22 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 13,
+			"bone": 14,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 13,
+			"bone": 14,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 13,
+			"bone": 14,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 28,
+			"bone": 10,
 			"name": "",
 			"type": 0
 		}
@@ -25,47 +25,37 @@
 		{
 			"models": [
 				{
-					"name": "cry_1",
-					"polys": 2903,
-					"verts": 1532
+					"name": "Tirant_Vader_P1",
+					"polys": 2670,
+					"verts": 1446
 				}
 			],
-			"name": "body"
+			"name": "MadeByTirant"
 		}, 
 		{
 			"models": [
 				{
-					"name": "cry_2",
-					"polys": 2905,
-					"verts": 1529
+					"name": "Tirant_Vader_P2",
+					"polys": 2122,
+					"verts": 1108
 				}
 			],
-			"name": "head"
+			"name": "MadeByTirant"
 		}, 
 		{
 			"models": [
 				{
-					"name": "cry_3",
-					"polys": 2252,
-					"verts": 920
+					"name": "Tirant_Vader_P3",
+					"polys": 210,
+					"verts": 127
 				}
 			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "cry_4",
-					"polys": 2253,
-					"verts": 918
-				}
-			],
-			"name": "head"
+			"name": "MadeByTirant"
 		}
 	],
 	"controllers": [
 		{
-			"bone": 5,
+			"bone": 2,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -73,7 +63,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 6,
+			"bone": 3,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -81,7 +71,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 7,
+			"bone": 4,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -89,7 +79,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 8,
+			"bone": 5,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -331,8 +321,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "74e30abcd266bfbbad72a54e0e584ad8",
-	"name": "crysys.mdl",
+	"md5": "7d17b707714a7d798d90cf8c69542df1",
+	"name": "DarthVader.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1246,7 +1236,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 1884692,
+	"size": 3153536,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1257,84 +1247,56 @@
 			"parent": 0
 		}, 
 		{
-			"name": "Bip01 R Leg",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 R Leg1",
-			"parent": 2
-		}, 
-		{
-			"name": "Bip01 R Foot",
-			"parent": 3
-		}, 
-		{
 			"name": "Bip01 Spine",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 5
+			"parent": 2
 		}, 
 		{
 			"name": "Bip01 Spine2",
-			"parent": 6
+			"parent": 3
 		}, 
 		{
 			"name": "Bip01 Spine3",
-			"parent": 7
+			"parent": 4
 		}, 
 		{
 			"name": "Bip01 Neck",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 L Arm2",
 			"parent": 8
 		}, 
 		{
-			"name": "Bip01 R Arm",
+			"name": "Bip01 L Hand",
 			"parent": 9
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 6
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 R Arm2",
 			"parent": 11
 		}, 
 		{
-			"name": "Bip01 R Hand",
+			"name": "Bip01 R Arm2",
 			"parent": 12
 		}, 
 		{
-			"name": "Bip01 R Finger0",
+			"name": "Bip01 R Hand",
 			"parent": 13
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 13
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 R Finger2",
-			"parent": 13
-		}, 
-		{
-			"name": "Bip01 R Finger21",
-			"parent": 19
-		}, 
-		{
-			"name": "Bip01 R Toe0",
-			"parent": 4
 		}, 
 		{
 			"name": "Bip01 L Leg",
@@ -1342,55 +1304,35 @@
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 22
+			"parent": 15
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 23
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 25
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 26
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 L Finger0",
-			"parent": 28
-		}, 
-		{
-			"name": "Bip01 L Finger01",
-			"parent": 29
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 28
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 31
-		}, 
-		{
-			"name": "Bip01 L Finger2",
-			"parent": 28
-		}, 
-		{
-			"name": "Bip01 L Finger21",
-			"parent": 33
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 L Toe0",
-			"parent": 24
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 R Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Leg1",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 R Toe0",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 6
 		}
 	],
 	"skins": 1,
@@ -1398,20 +1340,68 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 517,
-			"name": "nanosuit_us.bmp",
-			"width": 516
+			"height": 511,
+			"name": "alnewhope.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 509,
-			"name": "nanosuit_helm_mask.bmp",
-			"width": 500
+			"height": 239,
+			"name": "handhope.bmp",
+			"width": 232
 		}, 
 		{
 			"flags": 0,
-			"height": 508,
-			"name": "nanosuit_helm_glasses_mask.bmp",
+			"height": 230,
+			"name": "beltxtras.bmp",
+			"width": 228
+		}, 
+		{
+			"flags": 0,
+			"height": 496,
+			"name": "darthshing.bmp",
+			"width": 488
+		}, 
+		{
+			"flags": 0,
+			"height": 500,
+			"name": "legsvader.bmp",
+			"width": 496
+		}, 
+		{
+			"flags": 0,
+			"height": 493,
+			"name": "torsovader.bmp",
+			"width": 508
+		}, 
+		{
+			"flags": 0,
+			"height": 506,
+			"name": "hipsvader.bmp",
+			"width": 380
+		}, 
+		{
+			"flags": 0,
+			"height": 488,
+			"name": "dcape.bmp",
+			"width": 492
+		}, 
+		{
+			"flags": 0,
+			"height": 497,
+			"name": "headhope.bmp",
+			"width": 480
+		}, 
+		{
+			"flags": 0,
+			"height": 501,
+			"name": "helmethope.bmp",
+			"width": 504
+		}, 
+		{
+			"flags": 0,
+			"height": 412,
+			"name": "shoulderhope.bmp",
 			"width": 496
 		}
 	],

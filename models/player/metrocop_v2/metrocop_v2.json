@@ -1,22 +1,7 @@
 {
 	"attachments": [
 		{
-			"bone": 13,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 13,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 13,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 28,
+			"bone": 25,
 			"name": "",
 			"type": 0
 		}
@@ -25,47 +10,37 @@
 		{
 			"models": [
 				{
-					"name": "cry_1",
-					"polys": 2903,
-					"verts": 1532
+					"name": "combine_sw",
+					"polys": 860,
+					"verts": 452
 				}
 			],
-			"name": "body"
+			"name": "studio"
 		}, 
 		{
 			"models": [
 				{
-					"name": "cry_2",
-					"polys": 2905,
-					"verts": 1529
-				}
-			],
-			"name": "head"
-		}, 
-		{
-			"models": [
+					"name": "BARNEY-X_Template_Biped(Gun-Hlstr)1",
+					"polys": 0,
+					"verts": 0
+				}, 
 				{
-					"name": "cry_3",
-					"polys": 2252,
-					"verts": 920
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
+					"name": "BARNEY-X_Template_Biped(Gun)1",
+					"polys": 21,
+					"verts": 14
+				}, 
 				{
-					"name": "cry_4",
-					"polys": 2253,
-					"verts": 918
+					"name": "blank",
+					"polys": 0,
+					"verts": 0
 				}
 			],
-			"name": "head"
+			"name": "gun"
 		}
 	],
 	"controllers": [
 		{
-			"bone": 5,
+			"bone": 7,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -73,7 +48,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 6,
+			"bone": 8,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -81,7 +56,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 7,
+			"bone": 9,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -89,7 +64,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 8,
+			"bone": 10,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -176,30 +151,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -331,8 +306,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "74e30abcd266bfbbad72a54e0e584ad8",
-	"name": "crysys.mdl",
+	"md5": "a1cae3c247f49c6d7c72a185d56f6a79",
+	"name": "metrocop.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1244,9 +1219,54 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "barnaclehit"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 81,
+			"name": "barnaclepull"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 36,
+			"name": "barnaclecrunch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 36,
+			"name": "barnaclechew"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 21,
+			"name": "use_console_loop"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 201,
+			"name": "use_console_loop2"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 66,
+			"name": "action_retina"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 81,
+			"name": "action_studycart"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 22,
+			"name": "action_wave"
 		}
 	],
-	"size": 1884692,
+	"size": 998428,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1257,16 +1277,24 @@
 			"parent": 0
 		}, 
 		{
+			"name": "Bip01 L Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Leg1",
+			"parent": 2
+		}, 
+		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 2
+			"parent": 4
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 3
+			"parent": 5
 		}, 
 		{
 			"name": "Bip01 Spine",
@@ -1274,123 +1302,99 @@
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 5
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 Spine3",
 			"parent": 7
 		}, 
 		{
-			"name": "Bip01 Neck",
+			"name": "Bip01 Spine2",
 			"parent": 8
 		}, 
 		{
-			"name": "Bip01 R Arm",
+			"name": "Bip01 Spine3",
 			"parent": 9
 		}, 
 		{
-			"name": "Bip01 R Arm1",
+			"name": "Bip01 Neck",
 			"parent": 10
 		}, 
 		{
-			"name": "Bip01 R Arm2",
+			"name": "Bip01 Head",
 			"parent": 11
 		}, 
 		{
-			"name": "Bip01 R Hand",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 R Finger0",
-			"parent": 13
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 13
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 R Finger2",
-			"parent": 13
-		}, 
-		{
-			"name": "Bip01 R Finger21",
-			"parent": 19
-		}, 
-		{
-			"name": "Bip01 R Toe0",
-			"parent": 4
-		}, 
-		{
-			"name": "Bip01 L Leg",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 L Leg1",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip01 L Foot",
-			"parent": 23
-		}, 
-		{
 			"name": "Bip01 L Arm",
-			"parent": 9
+			"parent": 11
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 25
+			"parent": 13
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 26
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 L Hand",
-			"parent": 27
+			"parent": 15
 		}, 
 		{
 			"name": "Bip01 L Finger0",
-			"parent": 28
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 L Finger01",
-			"parent": 29
+			"parent": 17
 		}, 
 		{
 			"name": "Bip01 L Finger1",
-			"parent": 28
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 L Finger11",
-			"parent": 31
+			"parent": 19
 		}, 
 		{
-			"name": "Bip01 L Finger2",
+			"name": "Bip01 L Finger12",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Finger11",
 			"parent": 28
 		}, 
 		{
-			"name": "Bip01 L Finger21",
-			"parent": 33
+			"name": "Bip01 R Finger12",
+			"parent": 29
 		}, 
 		{
-			"name": "Bip01 L Toe0",
-			"parent": 24
+			"name": "Bip01 L Foot",
+			"parent": 3
 		}
 	],
 	"skins": 1,
@@ -1398,21 +1402,33 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 517,
-			"name": "nanosuit_us.bmp",
-			"width": 516
+			"height": 256,
+			"name": "DM_Base.bmp",
+			"width": 256
 		}, 
 		{
 			"flags": 0,
-			"height": 509,
-			"name": "nanosuit_helm_mask.bmp",
-			"width": 500
+			"height": 128,
+			"name": "DM_Face.bmp",
+			"width": 128
 		}, 
 		{
 			"flags": 0,
-			"height": 508,
-			"name": "nanosuit_helm_glasses_mask.bmp",
-			"width": 496
+			"height": 45,
+			"name": "BX_Pstl.bmp",
+			"width": 68
+		}, 
+		{
+			"flags": 0,
+			"height": 25,
+			"name": "BX_GTip1.bmp",
+			"width": 16
+		}, 
+		{
+			"flags": 0,
+			"height": 31,
+			"name": "BX_Gxttra1.bmp",
+			"width": 40
 		}
 	],
 	"version": 10

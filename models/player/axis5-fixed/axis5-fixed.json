@@ -1,22 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 13,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 13,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 13,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 28,
+			"bone": 19,
 			"name": "",
 			"type": 0
 		}
@@ -25,9 +25,9 @@
 		{
 			"models": [
 				{
-					"name": "cry_1",
-					"polys": 2903,
-					"verts": 1532
+					"name": "mg_body",
+					"polys": 563,
+					"verts": 293
 				}
 			],
 			"name": "body"
@@ -35,9 +35,19 @@
 		{
 			"models": [
 				{
-					"name": "cry_2",
-					"polys": 2905,
-					"verts": 1529
+					"name": "helmet",
+					"polys": 162,
+					"verts": 66
+				}
+			],
+			"name": "helmet"
+		}, 
+		{
+			"models": [
+				{
+					"name": "head4",
+					"polys": 322,
+					"verts": 185
 				}
 			],
 			"name": "head"
@@ -45,27 +55,17 @@
 		{
 			"models": [
 				{
-					"name": "cry_3",
-					"polys": 2252,
-					"verts": 920
+					"name": "mg_gear",
+					"polys": 180,
+					"verts": 112
 				}
 			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "cry_4",
-					"polys": 2253,
-					"verts": 918
-				}
-			],
-			"name": "head"
+			"name": "gears"
 		}
 	],
 	"controllers": [
 		{
-			"bone": 5,
+			"bone": 8,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -73,7 +73,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 6,
+			"bone": 9,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -81,7 +81,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 7,
+			"bone": 10,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -89,7 +89,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 8,
+			"bone": 11,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -99,9 +99,30 @@
 	],
 	"events": [
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/armor_jump.wav",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/armor_jump.wav",
+			"sequence": 9,
+			"type": 0
+		}, 
+		{
 			"event": 2001,
 			"frame": 9,
 			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis5_die.wav",
 			"sequence": 12,
 			"type": 0
 		}, 
@@ -113,9 +134,23 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis5_die.wav",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
 			"event": 2001,
 			"frame": 15,
 			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis5_die.wav",
 			"sequence": 14,
 			"type": 0
 		}, 
@@ -127,9 +162,23 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis5_die.wav",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
 			"event": 2001,
 			"frame": 22,
 			"options": "",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis5_die.wav",
 			"sequence": 16,
 			"type": 0
 		}, 
@@ -141,10 +190,52 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis5_die.wav",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
 			"event": 2001,
 			"frame": 22,
 			"options": "",
 			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis5_die.wav",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis_grenade_draw.wav",
+			"sequence": 31,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis_grenade.wav",
+			"sequence": 35,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis_grenade_draw.wav",
+			"sequence": 36,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis_grenade.wav",
+			"sequence": 40,
 			"type": 0
 		}, 
 		{
@@ -155,10 +246,24 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis_needammo.wav",
+			"sequence": 50,
+			"type": 0
+		}, 
+		{
 			"event": 5001,
 			"frame": 0,
 			"options": "15",
 			"sequence": 53,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis_needammo.wav",
+			"sequence": 54,
 			"type": 0
 		}, 
 		{
@@ -169,10 +274,24 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis_needammo.wav",
+			"sequence": 58,
+			"type": 0
+		}, 
+		{
 			"event": 5001,
 			"frame": 0,
 			"options": "15",
 			"sequence": 61,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis_needammo.wav",
+			"sequence": 62,
 			"type": 0
 		}, 
 		{
@@ -197,10 +316,66 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis_needammo.wav",
+			"sequence": 80,
+			"type": 0
+		}, 
+		{
 			"event": 5011,
 			"frame": 0,
 			"options": "20",
 			"sequence": 83,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis_needammo.wav",
+			"sequence": 84,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis_rpg_draw.wav",
+			"sequence": 85,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis_needammo.wav",
+			"sequence": 88,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis_rpg_draw.wav",
+			"sequence": 89,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis_needammo.wav",
+			"sequence": 92,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis_needammo.wav",
+			"sequence": 116,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis_needammo.wav",
+			"sequence": 122,
 			"type": 0
 		}, 
 		{
@@ -281,10 +456,24 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis_needammo.wav",
+			"sequence": 149,
+			"type": 0
+		}, 
+		{
 			"event": 5005,
 			"frame": 0,
 			"options": "muzzle_spaw.txt",
 			"sequence": 153,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis_needammo.wav",
+			"sequence": 155,
 			"type": 0
 		}, 
 		{
@@ -302,6 +491,13 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis_needammo.wav",
+			"sequence": 162,
+			"type": 0
+		}, 
+		{
 			"event": 5011,
 			"frame": 0,
 			"options": "15",
@@ -316,10 +512,24 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis_needammo.wav",
+			"sequence": 168,
+			"type": 0
+		}, 
+		{
 			"event": 5005,
 			"frame": 0,
 			"options": "muzzle_spaw.txt",
 			"sequence": 171,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis_needammo.wav",
+			"sequence": 172,
 			"type": 0
 		}, 
 		{
@@ -328,11 +538,18 @@
 			"options": "muzzle_spaw.txt",
 			"sequence": 175,
 			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/dod/axis_needammo.wav",
+			"sequence": 176,
+			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "74e30abcd266bfbbad72a54e0e584ad8",
-	"name": "crysys.mdl",
+	"md5": "bf280b487706b7dcfb046c9d0e2f34b5",
+	"name": "Axis5.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -387,47 +604,47 @@
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 27,
+			"frames": 31,
 			"name": "swim"
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 32,
+			"frames": 31,
 			"name": "treadwater"
 		}, 
 		{
 			"fps": 22.000000,
-			"frames": 19,
+			"frames": 46,
 			"name": "die_simple"
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 25,
+			"frames": 60,
 			"name": "die_backwards1"
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 36,
+			"frames": 60,
 			"name": "die_backwards"
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 19,
+			"frames": 39,
 			"name": "die_forwards"
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 28,
+			"frames": 47,
 			"name": "headshot"
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 21,
+			"frames": 31,
 			"name": "die_spin"
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 38,
+			"frames": 72,
 			"name": "gutshot"
 		}, 
 		{
@@ -1244,9 +1461,54 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "barnaclehit"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 81,
+			"name": "barnaclepull"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 36,
+			"name": "barnaclecrunch"
+		}, 
+		{
+			"fps": 6.000000,
+			"frames": 36,
+			"name": "barnaclechew"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 21,
+			"name": "use_console_loop"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 201,
+			"name": "use_console_loop2"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 71,
+			"name": "action_retina"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 81,
+			"name": "action_studycart"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 22,
+			"name": "action_wave"
 		}
 	],
-	"size": 1884692,
+	"size": 1590512,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1257,16 +1519,28 @@
 			"parent": 0
 		}, 
 		{
+			"name": "Bip01 L Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Leg1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 3
+		}, 
+		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 2
+			"parent": 5
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 3
+			"parent": 6
 		}, 
 		{
 			"name": "Bip01 Spine",
@@ -1274,123 +1548,103 @@
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 5
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 Spine3",
-			"parent": 7
-		}, 
-		{
-			"name": "Bip01 Neck",
 			"parent": 8
 		}, 
 		{
-			"name": "Bip01 R Arm",
+			"name": "Bip01 Spine2",
 			"parent": 9
 		}, 
 		{
-			"name": "Bip01 R Arm1",
+			"name": "Bip01 Spine3",
 			"parent": 10
 		}, 
 		{
-			"name": "Bip01 R Arm2",
+			"name": "Bip01 Neck",
 			"parent": 11
 		}, 
 		{
-			"name": "Bip01 R Hand",
+			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
-			"name": "Bip01 R Finger0",
-			"parent": 13
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 13
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 R Finger2",
-			"parent": 13
-		}, 
-		{
-			"name": "Bip01 R Finger21",
-			"parent": 19
-		}, 
-		{
-			"name": "Bip01 R Toe0",
-			"parent": 4
-		}, 
-		{
-			"name": "Bip01 L Leg",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 L Leg1",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip01 L Foot",
-			"parent": 23
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 9
-		}, 
-		{
 			"name": "Bip01 L Arm1",
-			"parent": 25
+			"parent": 13
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 26
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 17
 		}, 
 		{
 			"name": "Bip01 L Hand",
-			"parent": 27
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Finger0",
-			"parent": 28
+			"parent": 19
 		}, 
 		{
 			"name": "Bip01 L Finger01",
-			"parent": 29
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 23
 		}, 
 		{
 			"name": "Bip01 L Finger1",
-			"parent": 28
+			"parent": 19
 		}, 
 		{
 			"name": "Bip01 L Finger11",
-			"parent": 31
+			"parent": 25
 		}, 
 		{
-			"name": "Bip01 L Finger2",
+			"name": "Bip01 L Finger12",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 R Finger01",
 			"parent": 28
 		}, 
 		{
-			"name": "Bip01 L Finger21",
-			"parent": 33
+			"name": "Bip01 R Finger02",
+			"parent": 29
 		}, 
 		{
-			"name": "Bip01 L Toe0",
-			"parent": 24
+			"name": "Bip01 R Finger1",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 31
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 32
 		}
 	],
 	"skins": 1,
@@ -1398,21 +1652,27 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 517,
-			"name": "nanosuit_us.bmp",
-			"width": 516
+			"height": 507,
+			"name": "main2.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 509,
-			"name": "nanosuit_helm_mask.bmp",
-			"width": 500
+			"height": 510,
+			"name": "main1.bmp",
+			"width": 508
 		}, 
 		{
 			"flags": 0,
-			"height": 508,
-			"name": "nanosuit_helm_glasses_mask.bmp",
-			"width": 496
+			"height": 256,
+			"name": "helmet.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 255,
+			"name": "face4.bmp",
+			"width": 256
 		}
 	],
 	"version": 10
