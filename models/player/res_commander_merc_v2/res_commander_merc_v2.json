@@ -1,22 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 20,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 19,
+			"bone": 17,
 			"name": "",
 			"type": 0
 		}
@@ -25,19 +25,9 @@
 		{
 			"models": [
 				{
-					"name": "vincent_body",
-					"polys": 2208,
-					"verts": 1131
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "vincent_head4",
-					"polys": 260,
-					"verts": 137
+					"name": "re_succ_commander_merc_terror",
+					"polys": 1559,
+					"verts": 1141
 				}
 			],
 			"name": "body"
@@ -311,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "37956f8b40bbf6cd4b7f75128d695162",
-	"name": "mp_harabec.mdl",
+	"md5": "6f738760f4f74f4096427f80f8cc09ac",
+	"name": "re_ubcs_mikhail.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1269,9 +1259,14 @@
 			"fps": 10.000000,
 			"frames": 22,
 			"name": "action_wave"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 1,
+			"name": "Fixed {T.Ba.5} By FreeKill"
 		}
 	],
-	"size": 1463724,
+	"size": 1216464,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1326,16 +1321,24 @@
 			"parent": 11
 		}, 
 		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
 			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 13
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 14
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1343,23 +1346,15 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 R Arm2",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 R Hand",
 			"parent": 18
 		}, 
 		{
-			"name": "Bip01 Head",
-			"parent": 12
+			"name": "Bip01 R Arm2",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 20
 		}
 	],
 	"skins": 1,
@@ -1367,26 +1362,20 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "Vinnie_Hands.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
 			"height": 512,
-			"name": "Vinnie_Jacket.bmp",
+			"name": "terror_body.bmp",
 			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "Vinnie_Legs.bmp",
-			"width": 512
+			"height": 244,
+			"name": "head.bmp",
+			"width": 416
 		}, 
 		{
 			"flags": 0,
-			"height": 128,
-			"name": "Vinnie_Face.bmp",
+			"height": 64,
+			"name": "PC_soldier_beret_red.bmp",
 			"width": 128
 		}
 	],
