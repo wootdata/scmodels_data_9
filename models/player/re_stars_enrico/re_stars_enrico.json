@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "30f6e1074c49c5105a5d36c4de71b212",
-	"name": "RE_STARS_Enrico.mdl",
+	"md5": "ccb0e9c0bcdab1040b8170bf5879d20a",
+	"name": "C:\\Program Files\\Steam\\steamapps\\marb250\\half-life\\SvenCoop\\modeL",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1216,7 +1216,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 1265464,
+	"size": 1288012,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1312,27 +1312,27 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 138,
+			"height": 216,
 			"name": "martelface.bmp",
-			"width": 208
+			"width": 216
 		}, 
 		{
 			"flags": 0,
 			"height": 328,
 			"name": "arms.bmp",
-			"width": 500
+			"width": 504
 		}, 
 		{
 			"flags": 0,
-			"height": 501,
+			"height": 503,
 			"name": "legs.bmp",
-			"width": 380
+			"width": 384
 		}, 
 		{
 			"flags": 0,
 			"height": 244,
 			"name": "head.bmp",
-			"width": 412
+			"width": 416
 		}
 	],
 	"version": 10
