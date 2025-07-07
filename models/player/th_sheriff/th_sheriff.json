@@ -38,6 +38,7 @@
 			"name": "gun"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 21,
@@ -292,7 +293,11 @@
 	],
 	"id": 1414743113,
 	"md5": "71dad2970501d9e16e61978512cea91f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sheriff.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7e62955b7b0eaf643ed8da76cd9c8b81",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Q3Redrazor.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

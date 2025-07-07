@@ -48,6 +48,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -318,7 +319,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c9ebb3c6ff43eff068f817691e38722d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sc_barniel.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

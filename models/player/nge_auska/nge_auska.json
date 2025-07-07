@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0dd9d2b6ff59a41902b2ae15343a95ca",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "NGE_Auska.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

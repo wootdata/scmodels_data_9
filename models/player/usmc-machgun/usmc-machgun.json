@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ea0e05fdd89a6adf0eca27fb4221cb57",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Program Files\\Steam\\steamapps\\marb250\\half-life\\SvenCoop\\modeX",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

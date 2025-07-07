@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -520,7 +521,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a76fd92fd2e860229585ae168ef5a9d1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "axis2_s5.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

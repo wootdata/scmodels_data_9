@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cea8746843e9e05472aba3cafb902c9b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HLHD_Shotgun2F.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

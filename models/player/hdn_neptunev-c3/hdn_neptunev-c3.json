@@ -62,6 +62,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -774,7 +775,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8a23b94a812cff5090516a5d34f89b2f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HDN_NeptuneV.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

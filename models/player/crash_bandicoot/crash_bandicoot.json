@@ -12,6 +12,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -290,7 +291,11 @@
 	],
 	"id": 1414743113,
 	"md5": "33d1583f6c07fb8dd0288762c2d7f04f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bandicoot.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

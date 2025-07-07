@@ -12,12 +12,17 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1452706310,
 	"events": [],
 	"id": 1414743113,
 	"md5": "9cb0771537a524011598c4f948573a8a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "c:\\3dsmax25/cricket.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

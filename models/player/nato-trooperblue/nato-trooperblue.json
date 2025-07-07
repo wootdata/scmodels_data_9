@@ -48,6 +48,7 @@
 			"name": "nvg"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1265567565,
 	"events": [
@@ -285,7 +286,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3dfb11cfcd0cf1d1a4012f99743b4c93",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Nato-Trooperblue.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

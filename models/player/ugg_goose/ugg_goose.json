@@ -53,6 +53,7 @@
 			"name": "wing"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -422,7 +423,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5781f9652367728c2c28ad410035b721",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "EEE_ed.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

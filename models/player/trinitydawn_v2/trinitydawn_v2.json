@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "893cebb7b1ceaf3f29dcab2cc5ceeac0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Trinityboard.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

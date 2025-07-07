@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 7,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "91132368c99b3f89c5cbe418fdbd42a7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "svencouzi.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

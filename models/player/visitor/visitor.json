@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 12,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f362a1aef4298a85434363d11e477b30",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "visitor.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

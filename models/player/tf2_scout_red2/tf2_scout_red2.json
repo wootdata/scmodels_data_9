@@ -63,6 +63,7 @@
 			"name": "stuff"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -396,7 +397,11 @@
 	],
 	"id": 1414743113,
 	"md5": "00b57476cd56cb09eea5f1976a8dcac9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tf2_scout_blue.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

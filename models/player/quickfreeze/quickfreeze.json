@@ -38,6 +38,7 @@
 			"name": "bomb_defuser"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "be33e3d41dff1ba644a94a96a5153c5e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "quickfreeze.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

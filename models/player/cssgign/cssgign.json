@@ -53,6 +53,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "02d0a37cc012e6176e9ef62f27a72ec9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player\\SvenCoop\\cssgign.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

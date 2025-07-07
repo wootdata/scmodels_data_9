@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "52578ff9fb5c3d2f3f1d025eef82cb4a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "samuel_theserious_guy.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

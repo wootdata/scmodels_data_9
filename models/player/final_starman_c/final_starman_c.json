@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6416680aec460b76cac3cac9ba5339a8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Final_Starman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

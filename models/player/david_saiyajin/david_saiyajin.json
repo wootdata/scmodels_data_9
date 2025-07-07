@@ -93,6 +93,7 @@
 			"name": "byDavidManeyro"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -363,7 +364,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9395ae58e233eed39f65420ac707054f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\Admin\\Desktop\\Goku (Super Saiyan 2)\\DAhK*",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

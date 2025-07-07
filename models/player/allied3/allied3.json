@@ -63,6 +63,7 @@
 			"name": "gear"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -550,7 +551,11 @@
 	],
 	"id": 1414743113,
 	"md5": "09b66782fb1fb492b8660a4a997c8f9d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Allied3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

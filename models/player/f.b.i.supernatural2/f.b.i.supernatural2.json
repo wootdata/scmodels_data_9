@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f1e8aafd1110a5001ceb835c32ef6f50",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "F.B.I.SuperNatural2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

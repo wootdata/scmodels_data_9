@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 23,
@@ -306,7 +307,11 @@
 	],
 	"id": 1414743113,
 	"md5": "27b3ff4c7f67f7c25112f70095442eb5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "barney_tepa6ant.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

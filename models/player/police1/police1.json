@@ -58,6 +58,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -419,7 +420,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6618cf4c7c81f6ca31f0f3bb23f33b40",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "police2.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

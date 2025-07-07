@@ -28,6 +28,7 @@
 			"name": "Dr_Salvador"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1c8f6d5d92dcba3490add6c7c32750d9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "chainsaw.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 7,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "38b574fc36c6acd93e990c5fa0c3bc0f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "barney.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

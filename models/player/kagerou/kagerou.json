@@ -58,6 +58,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 6,
@@ -328,7 +329,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5f93ede5d18b59ff05b22bf510015417",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "kagerou.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

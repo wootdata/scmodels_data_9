@@ -43,6 +43,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9be4a8b32c4e35fcd04f43dc9c023ee7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "White_Helmet.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

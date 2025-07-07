@@ -153,6 +153,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -794,7 +795,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e20c28ded1fe839474a77c017d066e71",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Fox_otis.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

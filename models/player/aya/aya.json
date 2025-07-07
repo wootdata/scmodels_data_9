@@ -103,6 +103,7 @@
 			"name": "wing"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -373,7 +374,11 @@
 	],
 	"id": 1414743113,
 	"md5": "81b63e476b6dc70596f62dad0f47cb3c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "aya_h.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -48,6 +48,7 @@
 			"name": "backpack"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -318,7 +319,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fc2601983a4d7b5ad1bfad62cd08dfde",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "csNeo_soldierace.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

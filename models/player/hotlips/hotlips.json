@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f0e7cd43c9fc776c5e3a442ae0fcc17c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Hotlips.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

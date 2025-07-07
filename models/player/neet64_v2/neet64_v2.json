@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6748649a9f54d69e3e2d3ca6a1a0e25c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tiger_woods.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

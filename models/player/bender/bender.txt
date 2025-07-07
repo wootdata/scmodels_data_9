@@ -16,3 +16,24 @@ Feel free to distribute this .zip along with the README.txt
 Visit my skin site for some of the best skins with load of pictures of them in action.
 
          http://www.hlskins.free-online.co.uk/
+
+
+------------
+jan_2009.txt
+------------
+Jan, 2009
+
+
+All credit for the model itself goes to the original creator (see readme.txt) ;)
+
+I converted to SC4.0b animations and adjusted some things to make it look more like Bender!
+I also updated the preview image. 
+
+
+bender_ORIG.bmp: I renamed the original preview image that came with the model but left the image itself unmodified.
+bender_ORIG.mdl: Original model w/original HL:DM animations and original texture.
+readme.txt: original "readme" that came with the model (unmodified).
+
+
+
+-Marb750

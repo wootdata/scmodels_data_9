@@ -38,6 +38,7 @@
 			"name": "gun"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 7,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a1cae3c247f49c6d7c72a185d56f6a79",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "metrocop.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

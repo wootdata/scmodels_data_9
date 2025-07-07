@@ -93,6 +93,7 @@
 			"name": "stalker"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -321,7 +322,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8c2e9429177634a5fc96d4d51a4fb7e4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gign.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

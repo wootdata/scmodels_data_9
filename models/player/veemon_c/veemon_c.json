@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -321,7 +322,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d3d1a9408f265e5464ea71530146d962",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "veemon_c.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

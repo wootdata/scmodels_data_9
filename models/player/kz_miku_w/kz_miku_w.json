@@ -93,6 +93,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -363,7 +364,11 @@
 	],
 	"id": 1414743113,
 	"md5": "afd4165c56f0b4ac67b9b68f30beee80",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "MikuSkeleto.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

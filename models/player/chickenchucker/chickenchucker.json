@@ -38,6 +38,7 @@
 			"name": "bomb_defuser"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "438a51817dba78945564e31f9577e972",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "chickenchucker.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

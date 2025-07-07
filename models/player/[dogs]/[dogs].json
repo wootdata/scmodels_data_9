@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c0c0f87ad5c32350e8ab9589e026d4b6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/player/rett/rett.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

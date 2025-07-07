@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 4,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ff63b10e1950c167c62222114f805b0e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "rgrunt.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

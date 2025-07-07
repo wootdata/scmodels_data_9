@@ -153,6 +153,7 @@
 			"name": "ayaka_skirt"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -844,7 +845,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d0ecdcb77465126d66c1396605d15448",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gi_ayaka_v3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

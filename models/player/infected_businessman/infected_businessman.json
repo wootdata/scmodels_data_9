@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -201,7 +202,11 @@
 	],
 	"id": 1414743113,
 	"md5": "558c1a47cb21c322008b5add413cd7ad",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "infected_businessman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

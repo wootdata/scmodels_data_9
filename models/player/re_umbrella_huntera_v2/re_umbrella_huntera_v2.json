@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d0de859009edc9b1d1a54e8aaf59c9f1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "re_umbrella_huntera.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

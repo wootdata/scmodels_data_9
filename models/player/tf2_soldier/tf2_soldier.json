@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -352,7 +353,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a8de33dbefb3dc3a6a5a167e6f169a3c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "TF2_soldier.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

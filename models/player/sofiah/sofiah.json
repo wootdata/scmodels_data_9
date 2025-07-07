@@ -93,6 +93,7 @@
 			"name": "davidmaneyro"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -363,7 +364,11 @@
 	],
 	"id": 1414743113,
 	"md5": "dcc9e1caddc65d159673a82570afe9d6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\Admin\\Desktop\\Nueva carpeta\\DA_freezer ",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

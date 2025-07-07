@@ -68,6 +68,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -338,7 +339,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a67359ec98d4ece3082cc01c4b2794f5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "E:\\Escritorio\\SuperMarioSkinPack\\LuigiBWOdyssey\\LuigiBWOdyssey.m L&",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

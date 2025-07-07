@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -284,7 +285,11 @@
 	],
 	"id": 1414743113,
 	"md5": "aff95694f5b55e4ca57ebb1ecdb85e0e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nekomimi_soldier.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

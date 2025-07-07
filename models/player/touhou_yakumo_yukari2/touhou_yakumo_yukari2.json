@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 24,
@@ -364,7 +365,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e9dcebf3a63272a6e60d35102be94786",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "DAR-Kurumi_under.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

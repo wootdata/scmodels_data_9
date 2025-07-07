@@ -63,6 +63,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 5,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "74e30abcd266bfbbad72a54e0e584ad8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "crysys.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 22,
@@ -256,7 +257,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d219ab70b9cc42675eca1445f781d153",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\HP_Owner\\Desktop\\Half-LifeUplink\\New F",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

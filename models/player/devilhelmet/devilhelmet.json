@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -266,7 +267,11 @@
 	],
 	"id": 1414743113,
 	"md5": "89e7dd65f2747c099b387818b28b1a0b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "devilhelmet.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

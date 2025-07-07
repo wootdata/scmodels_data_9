@@ -48,6 +48,7 @@
 			"name": "backpack"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -318,7 +319,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ebc1cbeb4d96b61e13bfcb8503bad14e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "csNeo_csf.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

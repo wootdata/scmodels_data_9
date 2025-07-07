@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 9,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3a631c467b9b91162b188d92ecdf2a40",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sonya.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

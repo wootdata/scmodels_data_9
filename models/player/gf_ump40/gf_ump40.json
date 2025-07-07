@@ -173,6 +173,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -838,7 +839,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0ff7b6c20fab8b6e4ae73e0a2937392b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "stu_40.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

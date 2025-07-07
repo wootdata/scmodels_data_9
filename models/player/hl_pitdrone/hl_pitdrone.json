@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1638740593,
 	"events": [
@@ -270,7 +271,11 @@
 	],
 	"id": 1414743113,
 	"md5": "62b56fca98aca8fcc15d102b1754ba8a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "wayne.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

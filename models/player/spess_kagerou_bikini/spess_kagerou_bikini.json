@@ -78,6 +78,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -449,7 +450,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e06613842ffc476e26bb1d5203c696ee",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "spess_kagerou_bikini.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

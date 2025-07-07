@@ -12,6 +12,7 @@
 			"name": "mmx"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -258,7 +259,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b4dbb184381aadccb978e85f45c5a4cd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "p_x.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

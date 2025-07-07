@@ -53,6 +53,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -331,7 +332,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fb7c821569de3d6cae2f94b682724a26",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ObiWan.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

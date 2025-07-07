@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -389,7 +390,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e760e946bc23cd86add0523494a196b4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dod_german_assault.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

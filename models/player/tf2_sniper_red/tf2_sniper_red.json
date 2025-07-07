@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -386,7 +387,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8a681b7ea680834cf2d280ca07700297",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tf2_sniper_blue.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

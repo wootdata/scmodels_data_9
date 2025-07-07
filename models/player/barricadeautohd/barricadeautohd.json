@@ -82,6 +82,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1327171536,
 	"events": [
@@ -319,7 +320,11 @@
 	],
 	"id": 1414743113,
 	"md5": "551e8ba6fcfe787a68a36c858ce796ef",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\svencoop modific\\robo17\\robo17.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

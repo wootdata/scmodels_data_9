@@ -62,6 +62,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -704,7 +705,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1e3815b51d7a4ca5d5f55f3575a18ebc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HDNR_Compa.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6da63409e2ef9a9918de53edae195b92",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "OP4_Torch/OP4_Torch.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

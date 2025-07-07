@@ -123,6 +123,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -393,7 +394,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bfd53dd4b93f5adc0d9f8eedbaa1e406",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\Admin\\Desktop\\c0nversion\\DA_Chica_fnafX-",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

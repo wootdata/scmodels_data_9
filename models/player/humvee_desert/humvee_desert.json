@@ -12,6 +12,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1192444256,
 	"events": [
@@ -249,7 +250,11 @@
 	],
 	"id": 1414743113,
 	"md5": "88aa9a46738100a46e0338eb85f5d2d2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "humvee_desert.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

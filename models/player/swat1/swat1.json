@@ -43,6 +43,7 @@
 			"name": "bomb_defuser"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "44eca5b7f0b0e0a53156dcf403a02900",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "swat1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

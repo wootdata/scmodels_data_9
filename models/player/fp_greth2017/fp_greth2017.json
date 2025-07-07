@@ -63,6 +63,7 @@
 			"name": "gatiito_sc"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "138622b1259a00639175c54bdbb09571",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GS_Coach.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

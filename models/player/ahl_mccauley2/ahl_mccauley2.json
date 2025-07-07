@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 24,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7b500c7fa4287c47af4bd017fb2506ae",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ahl_mccauley2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

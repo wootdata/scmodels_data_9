@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7d96f38451f6659d5ac476481e5b8e41",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gign.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -38,6 +38,7 @@
 			"name": "heads"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -315,7 +316,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cd21597e5f74d6d451c880e838836a4f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nekomimi_sc2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

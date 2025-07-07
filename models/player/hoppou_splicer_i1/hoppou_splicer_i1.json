@@ -128,6 +128,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -576,7 +577,11 @@
 	],
 	"id": 1414743113,
 	"md5": "46f93a2e0fae242820d9d48b3f6706fc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Hoppou_Splicer_I1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

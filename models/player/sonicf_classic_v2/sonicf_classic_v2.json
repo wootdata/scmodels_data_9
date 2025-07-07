@@ -33,6 +33,7 @@
 			"name": "Classic_Sonic_Forces"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -324,7 +325,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9ea8f91af4dc9ba214b526f3e34d3918",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "testsonic.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

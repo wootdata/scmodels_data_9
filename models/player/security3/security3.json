@@ -48,6 +48,7 @@
 			"name": "tools"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -318,7 +319,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e5b1cd6dcbd049402a089df8345d2f82",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "security3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

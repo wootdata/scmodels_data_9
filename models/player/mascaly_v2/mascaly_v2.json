@@ -43,6 +43,7 @@
 			"name": "hands"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "29c7212ebfe6b9d7e1963c8f42523191",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Mascaly.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

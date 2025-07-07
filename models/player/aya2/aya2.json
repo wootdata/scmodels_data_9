@@ -93,6 +93,7 @@
 			"name": "ribon"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -363,7 +364,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e9b97b3a01ae85722dd231c6dbc3155d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "aya_h.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

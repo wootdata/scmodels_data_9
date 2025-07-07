@@ -58,6 +58,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -328,7 +329,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8bc291a04230798f612479694e468d61",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "BonnieFNiA.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

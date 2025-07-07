@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d678f697e0f64a0bb0ec2a79f3a7e4a8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dod_g_su_nh.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -18,6 +18,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -344,7 +345,11 @@
 	],
 	"id": 1414743113,
 	"md5": "04a1a9d07c7ec7d7038e6c5cf8265896",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dod_allie-heavy.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

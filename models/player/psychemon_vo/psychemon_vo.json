@@ -58,6 +58,7 @@
 			"name": "Gabu2"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -637,7 +638,11 @@
 	],
 	"id": 1414743113,
 	"md5": "938451d4422334c20c2d309ac1c466db",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "psychemon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

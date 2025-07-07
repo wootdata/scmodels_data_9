@@ -53,6 +53,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 28,
@@ -299,7 +300,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d9dc6affd36d6e46acbbd690ddc43c52",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "divayth.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "30a33beeb07fff1bb86aaa76e5470cdc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "saw-zombie-ts3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

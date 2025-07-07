@@ -28,6 +28,7 @@
 			"name": "unm_barney"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -306,7 +307,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8d16dde73bb516a3995802f16c3db164",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "LopanSD2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6ca8c4bdbe5fd9bd1dcf74f70a16ecb2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "q2_cipher.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

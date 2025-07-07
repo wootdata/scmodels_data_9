@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 22,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6152b049c57186847d93f38c1a22c1ed",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "joker.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "unm_barney"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -306,7 +307,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6a68ce26409c7eabf4fbec627fa6f455",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "zp_survivor.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

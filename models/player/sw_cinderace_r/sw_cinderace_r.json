@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6ce00bd26fd1c7e478ee5d959fcc929e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "XY_Cinderace.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
