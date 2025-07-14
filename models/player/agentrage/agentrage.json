@@ -175,6 +175,7 @@
 	"md5": "7146654d8a4440639f3bfce0ad50ae73",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "valve/models/player/AGENTrage/AGENTrage.mdl",
 	"preview": true,
 	"readme": false,

@@ -326,6 +326,7 @@
 	"md5": "02d0a37cc012e6176e9ef62f27a72ec9",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "player\\SvenCoop\\cssgign.mdl",
 	"preview": true,
 	"readme": true,

@@ -175,6 +175,7 @@
 	"md5": "c0c0f87ad5c32350e8ab9589e026d4b6",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/rett/rett.mdl",
 	"preview": true,
 	"readme": true,

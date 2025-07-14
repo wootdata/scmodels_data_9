@@ -326,6 +326,7 @@
 	"md5": "d46e6d133f40c8475fff18ba2ac9278f",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "player.mdl",
 	"preview": true,
 	"readme": false,
