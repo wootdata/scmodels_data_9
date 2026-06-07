@@ -78,7 +78,7 @@
 			"type": 8
 		}
 	],
-	"date": 1349529760,
+	"date": 1780811527,
 	"events": [
 		{
 			"event": 2001,
@@ -204,6 +204,7 @@
 	"md5": "558c1a47cb21c322008b5add413cd7ad",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "infected_businessman.mdl",
 	"preview": true,
 	"readme": false,

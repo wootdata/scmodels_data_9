@@ -105,7 +105,7 @@
 			"type": 32
 		}
 	],
-	"date": 1695831723,
+	"date": 1780811527,
 	"events": [
 		{
 			"event": 5004,
@@ -707,6 +707,7 @@
 	"md5": "1e3815b51d7a4ca5d5f55f3575a18ebc",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 5,
 	"name": "HDNR_Compa.mdl",
 	"preview": true,
 	"readme": false,

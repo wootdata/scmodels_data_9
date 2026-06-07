@@ -196,7 +196,7 @@
 			"type": 32
 		}
 	],
-	"date": 1698610373,
+	"date": 1780811527,
 	"events": [
 		{
 			"event": 5004,
@@ -847,6 +847,7 @@
 	"md5": "d0ecdcb77465126d66c1396605d15448",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "gi_ayaka_v3.mdl",
 	"preview": true,
 	"readme": false,

@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 973989914,
+	"date": 1780811527,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "3f3991576d145f62e20ff67a72c15e2d",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "C:\\models\\pikesoldier\\sarge.mdl",
 	"preview": true,
 	"readme": false,

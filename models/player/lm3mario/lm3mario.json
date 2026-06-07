@@ -1,22 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 26,
+			"bone": 14,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 26,
+			"bone": 14,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 26,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 26,
+			"bone": 14,
 			"name": "",
 			"type": 0
 		}
@@ -25,50 +20,170 @@
 		{
 			"models": [
 				{
-					"name": "sniper_reference_2",
-					"polys": 500,
-					"verts": 256
+					"name": "Black",
+					"polys": 36,
+					"verts": 19
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "MarioPart1",
+					"polys": 3322,
+					"verts": 1664
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "MarioPart2",
+					"polys": 1924,
+					"verts": 1003
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "MarioPart3",
+					"polys": 2092,
+					"verts": 1110
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "MarioPart4",
+					"polys": 1648,
+					"verts": 828
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "MarioPart5",
+					"polys": 3566,
+					"verts": 1850
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "MarioPart6",
+					"polys": 3778,
+					"verts": 1973
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "MarioPart7",
+					"polys": 2436,
+					"verts": 1240
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "MarioPart8",
+					"polys": 2794,
+					"verts": 1536
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "MarioPart9",
+					"polys": 3054,
+					"verts": 1676
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "MarioPart10",
+					"polys": 3190,
+					"verts": 1603
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "MarioPart11",
+					"polys": 3190,
+					"verts": 1603
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "MarioPart12",
+					"polys": 2272,
+					"verts": 1186
 				}
 			],
 			"name": "body"
 		}
 	],
-	"colorable": true,
+	"colorable": false,
 	"controllers": [
 		{
-			"bone": 8,
-			"end": 30.000000,
+			"bone": 2,
+			"end": 20.000000,
 			"index": 0,
 			"rest": 0,
-			"start": -30.000000,
+			"start": -20.000000,
 			"type": 8
 		}, 
 		{
-			"bone": 9,
-			"end": 30.000000,
+			"bone": 3,
+			"end": 20.000000,
 			"index": 1,
 			"rest": 0,
-			"start": -30.000000,
+			"start": -20.000000,
 			"type": 8
 		}, 
 		{
-			"bone": 10,
-			"end": 30.000000,
+			"bone": 4,
+			"end": 20.000000,
 			"index": 2,
 			"rest": 0,
-			"start": -30.000000,
+			"start": -20.000000,
 			"type": 8
 		}, 
 		{
-			"bone": 11,
-			"end": 30.000000,
+			"bone": 5,
+			"end": 20.000000,
 			"index": 3,
 			"rest": 0,
-			"start": -30.000000,
+			"start": -20.000000,
 			"type": 8
 		}
 	],
-	"date": 1780811527,
+	"date": 1772903773,
 	"events": [
 		{
 			"event": 2001,
@@ -303,12 +418,12 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "81e46d0fc664e515d5d0f2cdf60abeaf",
+	"md5": "d36a1eef16dffcb7c564d5168a1caeb0",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
 	"modid": 7,
-	"name": "sniper.mdl",
-	"preview": false,
+	"name": "LM3Mario.mdl",
+	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
@@ -1268,7 +1383,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1000008,
+	"size": 3451692,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1279,126 +1394,142 @@
 			"parent": 0
 		}, 
 		{
-			"name": "Bip01 L Leg",
+			"name": "Bip01 Spine",
 			"parent": 1
 		}, 
 		{
-			"name": "Bip01 L Leg1",
+			"name": "Bip01 Spine1",
 			"parent": 2
 		}, 
 		{
-			"name": "Bip01 L Foot",
+			"name": "Bip01 Spine2",
 			"parent": 3
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Leg",
+			"parent": 1
 		}, 
 		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
-			"name": "Bip01 R Leg1",
-			"parent": 5
-		}, 
-		{
-			"name": "Bip01 R Foot",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 Spine",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 Spine1",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 Spine3",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 Neck",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 L Hand",
+			"name": "Bip01 L Leg1",
 			"parent": 16
 		}, 
 		{
-			"name": "Bip01 L Finger0",
+			"name": "Bip01 R Leg1",
 			"parent": 17
 		}, 
 		{
-			"name": "Bip01 L Finger01",
+			"name": "Bip01 L Foot",
 			"parent": 18
 		}, 
 		{
-			"name": "Bip01 L Finger02",
+			"name": "Bip01 R Foot",
 			"parent": 19
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 21
-		}, 
-		{
-			"name": "Bip01 R Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 R Arm1",
-			"parent": 23
-		}, 
-		{
-			"name": "Bip01 R Arm2",
-			"parent": 24
-		}, 
-		{
-			"name": "Bip01 R Hand",
-			"parent": 25
-		}, 
-		{
-			"name": "Bip01 R Finger0",
-			"parent": 26
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 26
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 28
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
+			"flags": 64,
+			"height": 32,
+			"name": "Black.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "Cap.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "Shirt.bmp",
+			"width": 512
+		}, 
+		{
 			"flags": 0,
 			"height": 256,
-			"name": "DM_Base.bmp",
+			"name": "Eyes.bmp",
 			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "Shoes.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "Hair.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "Overall.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "Face.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "Gloves.bmp",
+			"width": 512
 		}
 	],
 	"version": 10

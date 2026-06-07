@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 966444102,
+	"date": 1780811527,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "b0bf1b9288c3779ed5a47ac12cfc40ab",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "../nympho/nympho.mdl",
 	"preview": true,
 	"readme": false,

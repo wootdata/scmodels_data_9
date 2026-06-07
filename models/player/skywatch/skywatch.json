@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1544189780,
+	"date": 1780811527,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "689439bc92c1e5b2cff824fb04bc8faa",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/robo/robo.mdl",
 	"preview": false,
 	"readme": false,

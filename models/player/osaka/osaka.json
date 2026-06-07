@@ -1,22 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 26,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 26,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 26,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 26,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}
@@ -25,16 +20,24 @@
 		{
 			"models": [
 				{
-					"name": "sniper_reference_2",
-					"polys": 500,
-					"verts": 256
+					"name": "osakeref2",
+					"polys": 504,
+					"verts": 272
 				}
 			],
 			"name": "body"
 		}
 	],
-	"colorable": true,
+	"colorable": false,
 	"controllers": [
+		{
+			"bone": 23,
+			"end": 30.000000,
+			"index": 4,
+			"rest": 0,
+			"start": 0.000000,
+			"type": 32
+		}, 
 		{
 			"bone": 8,
 			"end": 30.000000,
@@ -68,7 +71,7 @@
 			"type": 8
 		}
 	],
-	"date": 1780811527,
+	"date": 1776880964,
 	"events": [
 		{
 			"event": 2001,
@@ -303,12 +306,12 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "81e46d0fc664e515d5d0f2cdf60abeaf",
+	"md5": "aff60083c5dd303a4a5f5123b0aef050",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
 	"modid": 7,
-	"name": "sniper.mdl",
-	"preview": false,
+	"name": "ayumu_kasuga.mdl",
+	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
@@ -1268,7 +1271,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1000008,
+	"size": 1262940,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1323,44 +1326,20 @@
 			"parent": 11
 		}, 
 		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
 			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 14
+			"parent": 13
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 15
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 L Hand",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 L Finger0",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger01",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 19
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 21
+			"parent": 15
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1368,27 +1347,27 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 23
+			"parent": 17
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 24
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 25
+			"parent": 19
 		}, 
 		{
-			"name": "Bip01 R Finger0",
-			"parent": 26
+			"name": "Bip01 Head",
+			"parent": 12
 		}, 
 		{
-			"name": "Bip01 R Finger1",
-			"parent": 26
+			"name": "Dummy08",
+			"parent": 21
 		}, 
 		{
-			"name": "Bip01 R Finger11",
-			"parent": 28
+			"name": "Bone02",
+			"parent": 22
 		}
 	],
 	"skins": 1,
@@ -1396,9 +1375,15 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "DM_Base.bmp",
-			"width": 256
+			"height": 450,
+			"name": "output_17_tex0.bmp",
+			"width": 452
+		}, 
+		{
+			"flags": 0,
+			"height": 500,
+			"name": "output_2_tex0.bmp",
+			"width": 500
 		}
 	],
 	"version": 10

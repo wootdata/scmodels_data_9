@@ -162,7 +162,7 @@
 			"type": 8
 		}
 	],
-	"date": 1700846292,
+	"date": 1780811527,
 	"events": [
 		{
 			"event": 5004,
@@ -722,6 +722,7 @@
 	"md5": "d360493f7b208dffc45de1abda63a002",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "gi_keqing_v2.mdl",
 	"preview": true,
 	"readme": false,
